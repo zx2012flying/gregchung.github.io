@@ -9,7 +9,9 @@ categories: research
 Metal-organic frameworks (MOFs) are a class of nanoporous crystalline materials that are synthesized in a building-block approach from inorganic secondary building units (SBUs) and organic linkers. The building-block paradigm to MOF synthesis creates opportunities for the synthesis of virtually unlimited number of nanoporous materials. As evidenced by the large number of building blocks, thousands of the MOFs have been experimentally synthesized already since the discovery of the MOFs in late 1990s. In practice, synthesizing and testing the large number of MOFs is not feasible for a given time and resources constraints, therefore, the high-throughput computational screening of a large database of materials, an emerging area of computational chemistry, can optimize experimental efforts.
 
 <br>
-Our group collaborates with other research groups around the world to collect, curate, and publish experimental MOF crystal information data.
+Our group collaborates with other research groups around the world to collect, curate, and publish experimental MOF crystal information data. For more information, visit the link below.
+
+<h4><a href="http://gregchung.github.io/CoRE-MOFs/">Computation-Ready, Experimental Metal-Organic Frameworks Database</a></h4>
 
 <br>
 
