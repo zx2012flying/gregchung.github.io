@@ -12,8 +12,12 @@ order: 0
 
 <br><br>
 
-<UL>
-<LI> <a href="./research/CoRE-MOFs">Metal-Organic Frameworks (MOFs) database</a>
-<LI> <a href="./research/carbon_dioxide">Carbon dioxide capture and separations</a>
-<LI> <a href="./research/hydrocarbon">Hydrocarbon separations</a>
-</UL>
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+    </h2>
+  </li>
+ {% endfor %}
+</ul>
