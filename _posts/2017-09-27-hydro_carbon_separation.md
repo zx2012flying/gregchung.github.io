@@ -15,5 +15,4 @@ Our group is working on design and development of new adsorbent materials that c
 <br>
 
 ### Related Publications
-- [Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation (Chemistry of Materials, 2017)]
-(http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b01565)
+- [Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation (Chemistry of Materials, 2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b01565)

@@ -15,7 +15,5 @@ Our group is working in this area to discover and design new adsorbent materials
 <br>
 
 ### Relevant Publications
-- [In silico discovery of metal-organic frameworks for precombustion CO 2 capture using a genetic algorithm (Science Advances, 2016)]
-(http://advances.sciencemag.org/content/2/10/e1600909)
-- [High-Throughput Screening of Metal–Organic Frameworks for CO2 Capture in the Presence of Water (Langmuir, 2016)]
-(http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02803)
+- [In silico discovery of metal-organic frameworks for precombustion CO2 capture using a genetic algorithm (Science Advances, 2016)](http://advances.sciencemag.org/content/2/10/e1600909)
+- [High-Throughput Screening of Metal–Organic Frameworks for CO2 Capture in the Presence of Water (Langmuir, 2016)](http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02803)

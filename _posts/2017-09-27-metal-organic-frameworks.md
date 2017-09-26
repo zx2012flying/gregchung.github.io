@@ -13,7 +13,5 @@ Our group collaborates with other research groups around the world to collect, c
 <h4><a href="http://gregchung.github.io/CoRE-MOFs/">Computation-Ready, Experimental Metal-Organic Frameworks Database</a></h4>
 
 ### Related Publications
-- [Computation-ready, experimental metal–organic frameworks: A tool to enable high-throughput screening of nanoporous crystals (Chemistry of Materials, 2014)]
-(http://pubs.acs.org/doi/abs/10.1021/cm502594j)
-- [Large-Scale Refinement of Metal− Organic Framework Structures Using Density Functional Theory (Chemistry of Materials, 2017)]
-(http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04226)
+- [Computation-ready, experimental metal–organic frameworks: A tool to enable high-throughput screening of nanoporous crystals (Chemistry of Materials, 2014)](http://pubs.acs.org/doi/abs/10.1021/cm502594j)
+- [Large-Scale Refinement of Metal− Organic Framework Structures Using Density Functional Theory (Chemistry of Materials, 2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04226)
