@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Carbon dioxide capture and utilization"
+title:  "Greenhouse gas capture and utilization"
 date:   2017-09-27
 categories: research
 ---
 
 ## Carbon dioxide capture
-According to a 2008 report from the International Energy Agency (IEA), the United States alone is responsible for 16.3% of total global CO<sub>2</sub> emissions. In the United States, 40% of CO<sub>2</sub> emissions are due to electricity generation from coal-fired power plants. If the current rate of CO<sub>2</sub> accumulation in the atmosphere continues, the climate we live in today will no longer be viable in coming decades. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes. The main technological challenge remains to be the development of new adsorbent that selectively adsorb CO<sub>2</sub> in the presence of N<sub>2</sub>, O<sub>2</sub>, and H<sub>2</sub>O.
+The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting the climate in unusual ways. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes.
 
 ## Carbon dioxide utilization
 Captured CO<sub>2</sub> must be either geologically sequestered or transformed into high-value chemicals. Our group is using density functional theory calculations to unravel the reactive pathway of CO<sub>2</sub> transformation.
