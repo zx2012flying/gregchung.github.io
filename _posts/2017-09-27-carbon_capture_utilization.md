@@ -13,8 +13,6 @@ Captured CO<sub>2</sub> must be either geologically sequestered or transformed i
 
 Our group is working in this area to discover and design new adsorbent materials for carbon dioxide capture and utilization.
 
-<br>
-
 ### Relevant publications
 - [In silico discovery of metal-organic frameworks for precombustion CO<sub>2</sub> capture using a genetic algorithm (Science Advances, 2016)](http://advances.sciencemag.org/content/2/10/e1600909)
 
