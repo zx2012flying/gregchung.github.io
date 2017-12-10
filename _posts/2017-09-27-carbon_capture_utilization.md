@@ -5,11 +5,8 @@ date:   2017-09-27
 categories: research
 ---
 
-## Carbon dioxide capture
-The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting the climate in unusual ways. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes.
-
-## Carbon dioxide utilization
-Captured CO<sub>2</sub> must be either geologically sequestered or transformed into high-value chemicals. Our group is using density functional theory calculations to unravel the reactive pathway of CO<sub>2</sub> transformation.
+## Carbon dioxide capture and utilization
+The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting the climate in unusual ways. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes. Following the separation process, the captured CO<sub>2</sub> must be either geologically sequestered or transformed into high-value chemicals.
 
 Our group is working in this area to discover and design new adsorbent materials for carbon dioxide capture and utilization.
 
