@@ -6,7 +6,7 @@ categories: research
 ---
 Metal-organic frameworks (MOFs) are a class of nanoporous crystalline materials that are synthesized in a building-block approach from inorganic secondary building units (SBUs) and organic linkers. The building-block paradigm to MOF synthesis creates opportunities for the synthesis of virtually unlimited number of nanoporous materials.
 
-MOFs generally have high porosity and large surface area, making them ideal for applications in gas storage and separations, molecular catalysis, and chemical sensing. More recently, researchers are using MOFs in other areas, such as electrochemical energy storage and conversion, drug delivery, and water harvesting in arid environment.
+MOFs generally have high porosity and large surface area, making them ideal for applications in gas storage and separations, molecular catalysis, and chemical sensing. More recently, researchers are using MOFs in other applications, such as electrochemical energy storage and conversion, controlled drug delivery, and water harvesting in arid environment.
 
 ### Computation-Ready, Experimental Metal-organic framework (CoRE MOF) database
 ![](/images/core-mof-v1.png){: .center-image}
