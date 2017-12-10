@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metal-Organic Framework (MOFs) database"
+title:  "Porous materials database"
 date:   2017-09-27
 categories: research
 ---
@@ -20,7 +20,7 @@ Our group collaborates with other research groups around the world to collect, c
 
 <br>
 
-### Related publications
+### Papers
 - [Large-Scale Refinement of Metal− Organic Framework Structures Using Density Functional Theory (Chemistry of Materials, 2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04226)
 
 - [Computation-ready, experimental metal–organic frameworks: A tool to enable high-throughput screening of nanoporous crystals (Chemistry of Materials, 2014)](http://pubs.acs.org/doi/abs/10.1021/cm502594j)

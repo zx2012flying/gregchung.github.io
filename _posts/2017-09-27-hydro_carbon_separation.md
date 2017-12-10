@@ -13,5 +13,5 @@ Separation of hexane isomers is an important separation task in petrochemical in
 
 Both separations are challenging because traditional, energy-intensive separation process, such as distillation, is practically impossible due to closely matched vapor pressure between the isomers. Our group is working on design and development of new adsorbent materials that can efficiently separate hydrocarbons.
 
-### Related Publications
+### Related publications
 - [Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation (Chemistry of Materials, 2017)](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b01565)
