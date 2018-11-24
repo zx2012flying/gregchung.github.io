@@ -5,7 +5,33 @@ order: 2
 ---
 
 <h3>지도교수 (Principal Investigator)</h3>
-정용철 (Chung Yongchul G.) (<a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a>)
+<table>
+  <col>
+  <col>
+  <colgroup span="2"></colgroup>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+    <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    </th>
+      <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.)</td>
+    </tr>
+    <tr>
+      <td align="left">부산대학교 조교수, 2016.03 - 현재</td>
+    </tr>
+    <tr>
+      <td align="left">Postdoctoral Fellow, Chemical & Biological Engineering, Northwestern University (USA), 2013 - 2016</td>
+    </tr>
+    <tr>
+      <td align="left">Ph.D., Chemical Engineering, Case Western Reserve University (USA), 2013</td>
+    </tr>
+    <tr>
+      <td align="left">B.S., Chemical Engineering, Texas Tech University (USA), 2007</td>
+    </tr>
+  </tbody>
+
+ (<a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a>)
 
 <h3>연구원들 (Current Members)</h3>
 <table>
