@@ -13,9 +13,9 @@ order: 2
   </thead>
   <tbody>
     <tr>
-    <th rowspan="6" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="100%" height="auto">
+    <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="100%" height="auto">
     </th>
-      <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.)</td>
+      <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a> </td>
     </tr>
     <tr>
       <td align="left">부산대학교 조교수, 2016.03 - 현재</td>
@@ -28,9 +28,6 @@ order: 2
     </tr>
     <tr>
       <td align="left">B.S., Chemical Engineering, Texas Tech University (USA), 2007</td>
-    </tr>
-    <tr>
-     <td><a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a></td>
     </tr>
 </tbody>
 </table>
