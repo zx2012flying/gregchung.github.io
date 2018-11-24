@@ -33,8 +33,7 @@ order: 2
    <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a>
   </tr>
 </tbody>
-
-
+</table>
 
 <h3>연구원들 (Current Members)</h3>
 <table>
