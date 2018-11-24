@@ -14,6 +14,7 @@ order: 2
 | Position        | MS Program (2017.03)  |
 | Education       | BS in Energy Chemical Engineering, 2017  |
 | Research Topics | SF<sub>6</sub>/N<sub>2</sub> 스크리닝  |
+| Email           | 
 
 이름 (Name) | 직위 (Position)  | 학력 (Education)| 연구분야 (Research Topics)
 남수명 (Nam Soomyung) | 2017.03 석사과정| 2017.02 학사 경북대학교 |
