@@ -17,7 +17,7 @@ order: 2
   </thead>
   <tbody>
     <tr>
-      <th rowspan="3" scope="rowgroup">사진</th>
+      <th rowspan="4" scope="rowgroup">사진</th>
       <th scope="row">이름</th>
       <td>남수명</td>
     </tr>
