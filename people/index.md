@@ -9,8 +9,14 @@ order: 2
 
 <h3>연구원들 (Current Members)</h3>
 
+|-----------------|:-:|
+| Name            | 남수명  |
+| Position        | MS Program (2017.03)  |
+| Education       | BS in Energy Chemical Engineering, 2017  |
+| Research Topics | SF<sub>6</sub>/N<sub>2</sub> 스크리닝  |
+
 이름 (Name) | 직위 (Position)  | 학력 (Education)| 연구분야 (Research Topics)
-남수명 (Nam Soomyung) | 2017.03 석사과정| 2017.02 학사 경북대학교 | SF<sub>6</sub>/N<sub>2</sub> 스크리닝
+남수명 (Nam Soomyung) | 2017.03 석사과정| 2017.02 학사 경북대학교 |
 이슬찬 (Lee Seulchan) | 2018.09 학석사과정 | 2018.08 학사 부산대학교 | 자일렌 분리, 메탄 저장
 강세희 (Kang Sehee) | 2017.09 학연석사과정 (한국생산기술연구원) | 2016.02 학사 부산대학교 | 새로운 이산화탄소 흡수제 개발
 제현모 (Jae Hyunmo) | 2018.03 학연석사과정 (한국세라믹연구원) | |
