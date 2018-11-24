@@ -13,7 +13,7 @@ order: 2
   </thead>
   <tbody>
     <tr>
-    <th rowspan="6" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="100px" max-height="100px">
+    <th rowspan="6" scope="rowgroup"> <img src="/images/ygchung_profile.jpg">
     </th>
       <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.)</td>
     </tr>
