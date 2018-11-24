@@ -12,7 +12,7 @@ twitter_username: DrYGChung
 github_username:  gregchung
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 theme: minima
 google_analytics: UA-66713824-1
 
