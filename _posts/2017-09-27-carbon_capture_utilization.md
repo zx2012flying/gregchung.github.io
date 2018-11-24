@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Greenhouse gas capture and utilization"
+title:  "온실가스 흡착 분리 및 촉매 전환"
 date:   2017-09-27
 categories: research
 ---
 
 ## CO<sub>2</sub> capture and utilization
 The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting the climate in unusual ways. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes. Following the separation process, the captured CO<sub>2</sub> must be either geologically sequestered or transformed into high-value chemicals.
-
-Our group is working in this area to discover and design new adsorbent materials for carbon dioxide capture and utilization.
 
 ### Papers
 - [High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture (J. Phys. Chem. Lett., 2017)](http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700)
