@@ -13,7 +13,7 @@ order: 2
   </thead>
   <tbody>
     <tr>
-    <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" width="50%" height="50%">
     </th>
       <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.)</td>
     </tr>
@@ -21,7 +21,7 @@ order: 2
       <td align="left">부산대학교 조교수, 2016.03 - 현재</td>
     </tr>
     <tr>
-      <td align="left">Postdoctoral Fellow, Chemical & Biological Engineering, Northwestern University (USA), 2013 - 2016</td>
+      <td align="left">Postdoc., Chemical & Biological Engineering, Northwestern University (USA), 2013 - 2016</td>
     </tr>
     <tr>
       <td align="left">Ph.D., Chemical Engineering, Case Western Reserve University (USA), 2013</td>
