@@ -18,7 +18,7 @@ order: 2
     <tr>
     <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
     </th>
-      <td align="left">남수명 (Nam, Soo Myung)</td>
+      <td style="font-weight:bold" align="left">남수명 (Nam, Soo Myung)</td>
     </tr>
     <tr>
       <td align="left">석사과정, 2017.03 - 현재</td>
@@ -35,7 +35,7 @@ order: 2
     <tr>
     <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
     </th>
-      <td align="left">이슬찬 (Lee, Seulchan)</td>
+      <td style="font-weight:bold" align="left">이슬찬 (Lee, Seulchan)</td>
     </tr>
     <tr>
       <td align="left">학석통합과정, 2018.09 - 현재</td>
@@ -52,7 +52,7 @@ order: 2
     <tr>
     <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
     </th>
-      <td align="left">강세희 (Kang, Sehee)</td>
+      <td style="font-weight:bold" align="left">강세희 (Kang, Sehee)</td>
     </tr>
     <tr>
       <td align="left">학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 현재</td>
@@ -69,7 +69,7 @@ order: 2
     <tr>
     <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
     </th>
-    <td align="left">제현모 (Jae, Hyunmo)</td>
+    <td style="font-weight:bold" align="left">제현모 (Jae, Hyunmo)</td>
     </tr>
     <tr>
       <td align="left">석사과정 (한국세라믹연구소 학연과정), 2018.03 - 현재</td>
@@ -86,7 +86,7 @@ order: 2
     <tr>
       <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
       </th>
-      <td align="left">윤성현 (Yoon, Sunghyun)</td>
+      <td style="font-weight:bold" align="left">윤성현 (Yoon, Sunghyun)</td>
     </tr>
     <tr>
       <td align="left">학부연구생</td>
@@ -112,7 +112,7 @@ order: 2
     <tr>
     <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
     </th>
-      <td align="left">정충식 (Jeong, Chungsik)</td>
+      <td style="font-weight:bold" align="left">정충식 (Jeong, Chungsik)</td>
     </tr>
     <tr>
       <td align="left">학부연구생, 2016.06 - 2018.02 </td>
