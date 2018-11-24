@@ -4,7 +4,7 @@ title: research
 order: 1
 ---
 
-## 온실가스 흡착 포집 및 촉매 전환 (CO<sub>2</sub> capture and utilization)
+# 온실가스 흡착 포집 및 촉매 전환 (CO<sub>2</sub> capture and utilization)
 The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting the climate in unusual ways. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes. Following the separation process, the captured CO<sub>2</sub> must be either geologically sequestered or transformed into high-value chemicals.
 
 ### Papers
