@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hydrocarbon separations"
+title:  "탄화수소 흡착 분리"
 date:   2017-09-27
 categories: research
 ---
