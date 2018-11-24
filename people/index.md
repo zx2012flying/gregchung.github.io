@@ -76,17 +76,18 @@ order: 2
   </tbody>
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup">사진</th>
-      <td align="center">윤성현 (Yoon, Sunghyun)</td>
+      <th rowspan="4" scope="rowgroup"><img src="/images/profile_pic.png" alt="Girl in a jacket" width="50%" height="50%"">
+</th>
+      <td align="left">윤성현 (Yoon, Sunghyun)</td>
     </tr>
     <tr>
-      <td align="center">BS Program </td>
+      <td align="left">BS Program </td>
     </tr>
     <tr>
-      <td align="center"> BS in Chemical Engineering, 부산대학교 2019 </td>
+      <td align="left"> BS in Chemical Engineering, 부산대학교 2019 </td>
       </tr>
     <tr>
-        <td align="center"> 이산화탄소 전환, 차세대 다공성 데이터베이스 </td>
+        <td align="left"> 이산화탄소 전환, 차세대 다공성 데이터베이스 </td>
     </tr>
   </tbody>
 </table>
@@ -102,19 +103,19 @@ order: 2
   <tbody>
     <tr>
       <th rowspan="5" scope="rowgroup">사진</th>
-      <td align="center">정충식 (Jeong, Chungsik)</td>
+      <td align="left">정충식 (Jeong, Chungsik)</td>
     </tr>
     <tr>
-      <td align="center">BS Program </td>
+      <td align="left">BS Program </td>
     </tr>
     <tr>
-      <td align="center"> BS in Chemical Engineering, 부산대학교 2018 </td>
+      <td align="left"> BS in Chemical Engineering, 부산대학교 2018 </td>
       </tr>
     <tr>
-        <td align="center"> BET 이론 보정 </td>
+        <td align="left"> BET 이론 보정 </td>
     </tr>
     <tr>
-        <td align="center"> ... </td>
+        <td align="left"> ... </td>
     </tr>
   </tbody>
 </table>
