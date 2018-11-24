@@ -18,16 +18,16 @@ order: 2
       <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a> </td>
     </tr>
     <tr>
-      <td align="left">부산대학교 조교수, 2016.03 - 현재</td>
+      <td align="left"> 부산대학교 조교수, 2016.03 - 현재 </td>
     </tr>
     <tr>
-      <td align="left">Postdoc., Chemical & Biological Engineering, Northwestern University (USA), 2013 - 2016</td>
+      <td align="left">Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016</td>
     </tr>
     <tr>
-      <td align="left">Ph.D., Chemical Engineering, Case Western Reserve University (USA), 2013</td>
+      <td align="left">Ph.D., Chemical Engineering, Case Western Reserve University, 2013</td>
     </tr>
     <tr>
-      <td align="left">B.S., Chemical Engineering, Texas Tech University (USA), 2007</td>
+      <td align="left">B.S., Chemical Engineering, Texas Tech University, 2007</td>
     </tr>
 </tbody>
 </table>
