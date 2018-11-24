@@ -16,7 +16,8 @@ order: 2
   </thead>
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup">사진</th>
+    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    </th>
       <td align="left">남수명 (Nam, Soo Myung)</td>
     </tr>
     <tr>
@@ -29,9 +30,11 @@ order: 2
         <td align="left">SF<sub>6</sub>/N<sub>2</sub> 스크리닝</td>
     </tr>
   </tbody>
+
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup">사진</th>
+    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    </th>
       <td align="left">이슬찬 (Lee, Seulchan)</td>
     </tr>
     <tr>
@@ -44,9 +47,11 @@ order: 2
         <td align="left">자일렌 분리, 메탄 저장</td>
     </tr>
   </tbody>
+
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup">사진</th>
+    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    </th>
       <td align="left">강세희 (Kang, Sehee)</td>
     </tr>
     <tr>
@@ -59,10 +64,12 @@ order: 2
         <td align="left">이산화탄소 흡수제 개발</td>
     </tr>
   </tbody>
+
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup">사진</th>
-      <td align="left">제현모 (Jae, Hyunmo)</td>
+    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    </th>
+    <td align="left">제현모 (Jae, Hyunmo)</td>
     </tr>
     <tr>
       <td align="left">석사과정 (한국세라믹연구소 학연과정), 2018.03 - 현재</td>
@@ -74,10 +81,11 @@ order: 2
         <td align="left"> ... </td>
     </tr>
   </tbody>
+
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%"> </img>
-</th>
+      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+      </th>
       <td align="left">윤성현 (Yoon, Sunghyun)</td>
     </tr>
     <tr>
@@ -102,14 +110,15 @@ order: 2
   </thead>
   <tbody>
     <tr>
-      <th rowspan="5" scope="rowgroup">사진</th>
+    <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    </th>
       <td align="left">정충식 (Jeong, Chungsik)</td>
     </tr>
     <tr>
-      <td align="left">BS Program </td>
+      <td align="left">학부연구생, 2016.06 - 2018.02 </td>
     </tr>
     <tr>
-      <td align="left"> BS in Chemical Engineering, 부산대학교 2018 </td>
+      <td align="left"> 학사 화학공학, 부산대학교 2018 </td>
       </tr>
     <tr>
         <td align="left"> BET 이론 보정 </td>
