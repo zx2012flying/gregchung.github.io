@@ -76,7 +76,7 @@ order: 2
   </tbody>
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%""> </img>
+      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%"> </img>
 </th>
       <td align="left">윤성현 (Yoon, Sunghyun)</td>
     </tr>
