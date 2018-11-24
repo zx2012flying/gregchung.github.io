@@ -17,61 +17,61 @@ order: 2
   <tbody>
     <tr>
       <th rowspan="4" scope="rowgroup">사진</th>
-      <td align="center">남수명 (Nam, Soo Myung)</td>
+      <td align="left">남수명 (Nam, Soo Myung)</td>
     </tr>
     <tr>
-      <td align="center">석사과정, 2017.03 - 현재</td>
+      <td align="left">석사과정, 2017.03 - 현재</td>
     </tr>
     <tr>
-      <td align="center">학사 에너지화학공학, 경북대학교, 2017</td>
+      <td align="left">학사 에너지화학공학, 경북대학교, 2017</td>
       </tr>
     <tr>
-        <td align="center">SF<sub>6</sub>/N<sub>2</sub> 스크리닝</td>
+        <td align="left">SF<sub>6</sub>/N<sub>2</sub> 스크리닝</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <th rowspan="4" scope="rowgroup">사진</th>
-      <td align="center">이슬찬 (Lee, Seulchan)</td>
+      <td align="left">이슬찬 (Lee, Seulchan)</td>
     </tr>
     <tr>
-      <td align="center">학석통합과정, 2018.09 - 현재</td>
+      <td align="left">학석통합과정, 2018.09 - 현재</td>
     </tr>
     <tr>
-      <td align="center">학사 화학공학, 부산대학교, 2018</td>
+      <td align="left">학사 화학공학, 부산대학교, 2018</td>
       </tr>
     <tr>
-        <td align="center">자일렌 분리, 메탄 저장</td>
+        <td align="left">자일렌 분리, 메탄 저장</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <th rowspan="4" scope="rowgroup">사진</th>
-      <td align="center">강세희 (Kang, Sehee)</td>
+      <td align="left">강세희 (Kang, Sehee)</td>
     </tr>
     <tr>
-      <td align="center">학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 현재</td>
+      <td align="left">학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 현재</td>
     </tr>
     <tr>
-      <td align="center">학사 화학공학, 부산대학교, 2016</td>
+      <td align="left">학사 화학공학, 부산대학교, 2016</td>
       </tr>
     <tr>
-        <td align="center">이산화탄소 흡수제 개발</td>
+        <td align="left">이산화탄소 흡수제 개발</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <th rowspan="4" scope="rowgroup">사진</th>
-      <td align="center">제현모 (Jae, Hyunmo)</td>
+      <td align="left">제현모 (Jae, Hyunmo)</td>
     </tr>
     <tr>
-      <td align="center">석사과정 (한국세라믹연구소 학연과정), 2018.03 - 현재</td>
+      <td align="left">석사과정 (한국세라믹연구소 학연과정), 2018.03 - 현재</td>
     </tr>
     <tr>
-      <td align="center"> ... </td>
+      <td align="left"> ... </td>
       </tr>
     <tr>
-        <td align="center"> ... </td>
+        <td align="left"> ... </td>
     </tr>
   </tbody>
   <tbody>
