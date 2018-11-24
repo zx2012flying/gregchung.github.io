@@ -97,7 +97,7 @@ order: 2
     <td style="font-weight:bold" align="left">제현모 (Jae, Hyunmo)</td>
     </tr>
     <tr>
-      <td align="left">석사과정 (한국세라믹연구소 학연과정), 2018.03 - 현재</td>
+      <td align="left">학연석사과정 (한국세라믹연구소), 2018.03 - 현재</td>
     </tr>
     <tr>
       <td align="left"> ... </td>
