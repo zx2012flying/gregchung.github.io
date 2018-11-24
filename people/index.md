@@ -76,15 +76,15 @@ order: 2
   </tbody>
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup"><img src="/images/profile_pic.png" width="50%" height="50%"">
+      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%""> </img>
 </th>
       <td align="left">윤성현 (Yoon, Sunghyun)</td>
     </tr>
     <tr>
-      <td align="left">BS Program </td>
+      <td align="left">학부연구생</td>
     </tr>
     <tr>
-      <td align="left"> 학사 화학공학, 부산대학교 2019 </td>
+      <td align="left"> 학사 화학공학, 부산대학교, 2019 </td>
       </tr>
     <tr>
         <td align="left"> 이산화탄소 전환, 차세대 다공성 데이터베이스 </td>
