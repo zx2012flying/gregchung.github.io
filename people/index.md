@@ -3,17 +3,17 @@ layout: page
 title: people
 order: 2
 ---
-<h4>교수</h4>
+#교수
 정용철 (Chung Yongchul G.) (<a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a>)
 
-<h4>석사과정 (Masters Student)</h4>
+#석사과정 (Masters Student)
 
 |이름 (Name) | 입학년도 (Entrance Year) | 연구주제 (Research Topics) |
 |:-|:-:|:-:|
 |남수명 (Nam Soomyung) | 03/2017 | SF<sub>6</sub>/N<sub>2</sub> 스크리닝 |
 |이슬찬 (Lee Seulchan) | 09/2018 | 자일렌 분리, 메탄 저장 |
 
-<h4>학연석사과정 (Masters Student with Joint Appointment)</h4>
+#학연석사과정 (Masters Student with Joint Appointment)
 <UL>
 <LI>강세희 (Kang Sehee) (09/2017) (지도박사: 송호준 박사 한국생산기술연구소 울산본부)
 <LI>제현모 (Jae Hyunmo) (09/2018) (지도박사: 노동규 박사 한국세라믹연구소)
