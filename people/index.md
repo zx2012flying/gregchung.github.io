@@ -13,7 +13,7 @@ order: 2
   </thead>
   <tbody>
     <tr>
-    <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="50%" height="auto">
+    <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="100%" height="50%">
     </th>
       <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a> </td>
     </tr>
