@@ -18,6 +18,4 @@ order: 2
 
 <h3>졸업생 (Alumni) </h3>
 
-|Name | Position  | Duration | Research Topics | After CRG |
-|:-|:-:|:-:|:-:|:-:|
-|정충식 (Jeong Chungsik) | 학부연구생 | 2016.06 - 2018.02 | BET 이론 보정 | - |
+정충식 (Jeong Chungsik)  학부연구생 | 2016.06 - 2018.02 | BET 이론 보정 | - |
