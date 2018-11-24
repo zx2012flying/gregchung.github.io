@@ -29,9 +29,9 @@ order: 2
     <tr>
       <td align="left">B.S., Chemical Engineering, Texas Tech University (USA), 2007</td>
     </tr>
-  <tr>
-   <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a>
-  </tr>
+    <tr>
+     <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a>
+    </tr>
 </tbody>
 </table>
 
