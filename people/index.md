@@ -13,9 +13,15 @@ order: 2
   </thead>
   <tbody>
     <tr>
-    <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="100%" height="50%">
+    <th rowspan="7" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="100%" height="50%">
     </th>
       <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a> <a href="http://doodle.com/greg.chung">Doodle Scheduler</a></td>
+    </tr>
+    <tr>
+      <td align="left"> greg(dot)chung(at)pusan(dot)ac(dot)kr </td>
+    </tr>
+    <tr>
+      <td align="left"> Office: +82-51-510-3757 </td>
     </tr>
     <tr>
       <td align="left"> 부산대학교 조교수, 2016.03 - 현재 </td>
