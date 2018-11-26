@@ -123,7 +123,7 @@ order: 2
       <td align="left"> 학사 화학공학, 부산대학교, 2019 </td>
       </tr>
     <tr>
-        <td align="left"> 이산화탄소 전환, 차세대 다공성 데이터베이스 </td>
+        <td align="left"> 이산화탄소 전환, 차세대 나노다공성 물질 데이터베이스 </td>
     </tr>
   </tbody>
 </table>
