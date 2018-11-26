@@ -18,10 +18,7 @@ order: 2
       <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a> | <a href="http://doodle.com/greg.chung">Doodle Scheduler</a></td>
     </tr>
     <tr>
-      <td align="left"> greg(dot)chung(at)pusan(dot)ac(dot)kr </td>
-    </tr>
-    <tr>
-      <td align="left"> Office: +82-51-510-3757 </td>
+      <td align="left"> greg.chung(at)pusan.ac.kr </td>
     </tr>
     <tr>
       <td align="left"> 부산대학교 조교수, 2016.03 - 현재 </td>
