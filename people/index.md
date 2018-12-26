@@ -123,7 +123,7 @@ order: 1
 
   <tbody>
     <tr>
-    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
     </th>
       <td style="font-weight:bold" align="left">남수명 (Nam, Soo Myung)</td>
     </tr>
