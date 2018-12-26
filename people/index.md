@@ -1,40 +1,8 @@
 ---
 layout: page
 title: people
-order: 1
+order: 2
 ---
-
-<h3>지도교수 (Principal Investigator)</h3>
-<table>
-  <col>
-  <col>
-  <colgroup span="2"></colgroup>
-  <thead>
-  </thead>
-  <tbody>
-    <tr>
-    <th rowspan="6" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" max-width="100%" height="50%">
-    </th>
-      <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a> | <a href="http://doodle.com/greg.chung">Doodle Scheduler</a></td>
-    </tr>
-    <tr>
-      <td align="left"> drygchung(at)gmail.com </td>
-    </tr>
-    <tr>
-      <td align="left"> 부산대학교 조교수, 2016.03 - 현재 </td>
-    </tr>
-    <tr>
-      <td align="left">Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016</td>
-    </tr>
-    <tr>
-      <td align="left">Ph.D., Chemical Engineering, Case Western Reserve University, 2013</td>
-    </tr>
-    <tr>
-      <td align="left">B.S., Chemical Engineering, Texas Tech University, 2007</td>
-    </tr>
-</tbody>
-</table>
-
 <h3>박사후연구원 (Current Postdocs)</h3>
 <table>
   <col>
