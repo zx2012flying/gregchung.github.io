@@ -4,6 +4,10 @@ title: professor
 order: 1
 ---
 <table>
+img.resize {
+  max-width:100%;
+}
+
   <col>
   <col>
   <colgroup span="2"></colgroup>
@@ -12,9 +16,9 @@ order: 1
 
     <tbody>
       <tr>
-      <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg">
+      <th rowspan="5" scope="rowgroup"> <img class="resize" src="/images/ygchung_profile.jpg">
       </th>
-        <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.)  | <a href="http://doodle.com/greg.chung">Doodle Scheduler</a> </td>
+        <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://doodle.com/greg.chung">Doodle Scheduler</a> </td>
       </tr>
       <tr>
         <td align="left">Assistant Professor </td>
