@@ -4,7 +4,7 @@ title: fundings
 order: 6
 ---
 
-# 현재 수행 중인 과제 (Current Project)
+# 현재 수행 중인 과제 (Current Projects)
 
 ![](/images/NRF-korea.png)
 - 과제번호: NRF-2016R1D1A1B03934484
