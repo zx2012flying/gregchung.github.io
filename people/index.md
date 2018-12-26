@@ -35,7 +35,17 @@ order: 1
 </tbody>
 </table>
 
-<h3>박사과정 (Ph.D. program)</h3>
+<h3>박사후연구원 (Current Postdocs)</h3>
+<table>
+  <col>
+  <col>
+  <colgroup span="2"></colgroup>
+  <thead>
+  </thead>
+Currently Not Available
+</table>
+
+<h3>박사과정 (Current Ph.D. Students)</h3>
 <table>
   <col>
   <col>
@@ -43,9 +53,10 @@ order: 1
   <thead>
   </thead>
 
+Currently Not Available
 </table>
 
-<h3>석사과정 (Master's Student)</h3>
+<h3>석사과정 (Current Master's Student)</h3>
 <table>
   <col>
   <col>
@@ -72,7 +83,7 @@ order: 1
 
 </table>
 
-<h3>학부연구생 (Current Undergraduate) </h3>
+<h3>학부연구생 (Current Undergraduates) </h3>
 <table>
   <col>
   <col>
