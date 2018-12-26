@@ -42,7 +42,7 @@ order: 1
   <colgroup span="2"></colgroup>
   <thead>
   </thead>
-Currently Not Available
+  <font face="courier new">Currently Not Available</font>
 </table>
 
 <h3>박사과정 (Current Ph.D. Students)</h3>
@@ -53,7 +53,8 @@ Currently Not Available
   <thead>
   </thead>
 
-Currently Not Available
+<font face="courier new">Currently Not Available</font>
+
 </table>
 
 <h3>석사과정 (Current Master's Student)</h3>
