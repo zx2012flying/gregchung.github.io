@@ -3,7 +3,7 @@ layout: page
 title: people
 order: 2
 ---
-<h3>박사후연구원 (Current Postdocs)</h3>
+<h4>박사후연구원 (Current Postdocs)</h4>
 <table>
   <col>
   <col>
@@ -13,7 +13,7 @@ order: 2
   <font face="courier new">Currently Not Available</font>
 </table>
 
-<h3>박사과정 (Current Ph.D. Students)</h3>
+<h4>박사과정 (Current Ph.D. Students)</h4>
 <table>
   <col>
   <col>
@@ -25,7 +25,7 @@ order: 2
 
 </table>
 
-<h3>석사과정 (Current Master's Student)</h3>
+<h4>석사과정 (Current Master's Student)</h4>
 <table>
   <col>
   <col>
@@ -52,7 +52,7 @@ order: 2
 
 </table>
 
-<h3>학부연구생 (Current Undergraduates) </h3>
+<h4>학부연구생 (Current Undergraduates) </h4>
 <table>
   <col>
   <col>
@@ -78,7 +78,7 @@ order: 2
 
 </table>
 
-<h3>학연과정 (Affiliated Degree Program)</h3>
+<h4>학연과정 (Affiliated Degree Program)</h4>
 <table>
   <col>
   <col>
@@ -121,7 +121,7 @@ order: 2
   </tbody>
 </table>
 
-<h3>졸업생 (Former Group Members) </h3>
+<h4>졸업생 (Former Group Members) </h4>
 
 <table>
   <col>

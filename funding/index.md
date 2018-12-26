@@ -4,7 +4,7 @@ title: fundings
 order: 6
 ---
 
-# 현재 수행 중인 과제 (Current Projects)
+## 현재 수행 중인 과제 (Current Projects)
 
 ![](/images/NRF-korea.png)
 - 과제번호: NRF-2016R1D1A1B03934484
@@ -13,7 +13,7 @@ order: 6
 - 총연구기간: 2016-11-01 ~ 2019-10-31
 - 총연구비: 150,000 천원
 
-# 종료 된 과제 (Completed Projects)
+## 종료 된 과제 (Completed Projects)
 ![](/images/LG-chem.jpeg)
 - 과제명: 분자전산모사를 통한 기체 정제용 흡착제 탐색
 - 총연구기간: 2018-07-25 ~ 2018-10-24
