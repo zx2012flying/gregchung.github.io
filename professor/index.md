@@ -7,7 +7,6 @@ order: 1
 img.resize {
   max-width:50%;
   align:left;
-  margin-left: auto;
 }
 </style>
 
