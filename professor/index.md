@@ -3,7 +3,7 @@ layout: page
 title: professor
 order: 1
 ---
-![](/images/ygchung_profile.jpg)
+![](/images/ygchung_profile.jpg =250x)
 
 정용철 (Chung, Yongchul G.)
 <a href="http://academictree.org/chemistry/tree.php?pid=76509">Chemistry Tree</a>
