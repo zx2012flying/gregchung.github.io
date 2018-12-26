@@ -12,7 +12,7 @@ order: 1
 
     <tbody>
       <tr>
-      <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" width="50%" height="50%">
+      <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg">
       </th>
         <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.)  | <a href="http://doodle.com/greg.chung">Doodle Scheduler</a> </td>
       </tr>
@@ -33,12 +33,11 @@ order: 1
 </table>
 
 # Education
-
 Ph.D. Chemical Engineering, Case Western Reserve University, 2013
 
 B.S. Chemical Engineering, Texas Tech University, 2007
 
 # Professional Experience
-부산대학교 조교수, 2016.03 - 현재
+Assistant Professor, Chemical & Biomolecular Engineering, Pusan National University, 2016.03 - 현재
 
 Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016
