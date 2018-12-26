@@ -1,7 +1,7 @@
 ---
 layout: page
 title: people
-order: 2
+order: 1
 ---
 
 <h3>지도교수 (Principal Investigator)</h3>
