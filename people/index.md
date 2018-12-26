@@ -42,22 +42,6 @@ order: 1
   <colgroup span="2"></colgroup>
   <thead>
   </thead>
-  <tbody>
-    <tr>
-    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
-    </th>
-      <td style="font-weight:bold" align="left">남수명 (Nam, Soo Myung)</td>
-    </tr>
-    <tr>
-      <td align="left">석사과정, 2017.03 - 현재</td>
-    </tr>
-    <tr>
-      <td align="left">학사 에너지화학공학, 경북대학교, 2017</td>
-      </tr>
-    <tr>
-        <td align="left">SF<sub>6</sub>/N<sub>2</sub> 스크리닝</td>
-    </tr>
-  </tbody>
 
   <tbody>
     <tr>
@@ -136,6 +120,28 @@ order: 1
   <colgroup span="2"></colgroup>
   <thead>
   </thead>
+
+  <tbody>
+    <tr>
+    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    </th>
+      <td style="font-weight:bold" align="left">남수명 (Nam, Soo Myung)</td>
+    </tr>
+    <tr>
+      <td align="left">석사과정, 2017.03 - 현재</td>
+    </tr>
+    <tr>
+      <td align="left">학사 에너지화학공학, 경북대학교, 2017</td>
+      </tr>
+    <tr>
+        <td align="left">SF<sub>6</sub>/N<sub>2</sub> 스크리닝</td>
+    </tr>
+    <tr>
+        <td align="left">...</td>
+    </tr>
+
+  </tbody>
+
   <tbody>
     <tr>
     <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
