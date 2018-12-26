@@ -6,6 +6,7 @@ order: 1
 <style type="text/css">
 img.resize {
   max-width:50%;
+  margin-left: auto;
 }
 </style>
 
