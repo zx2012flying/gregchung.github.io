@@ -1,7 +1,7 @@
 ---
 layout: page
-title: people
-order: 2
+title: professor
+order: 1
 ---
 ![](/images/ygchung_profile.jpg)
 

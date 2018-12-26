@@ -1,7 +1,7 @@
 ---
 layout: page
 title: fundings
-order: 5
+order: 6
 ---
 
 # 현재 수행 중인 과제 (Current Funding)
