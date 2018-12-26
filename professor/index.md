@@ -3,11 +3,13 @@ layout: page
 title: professor
 order: 1
 ---
-<table>
+<style type="text/css">
 img.resize {
   max-width:100%;
 }
+</style>
 
+<table>
   <col>
   <col>
   <colgroup span="2"></colgroup>
