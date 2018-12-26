@@ -35,7 +35,7 @@ order: 1
 </tbody>
 </table>
 
-<h3>연구원들 (Current Members)</h3>
+<h3>박사과정 (Ph.D. program)</h3>
 <table>
   <col>
   <col>
@@ -43,23 +43,42 @@ order: 1
   <thead>
   </thead>
 
-  <tbody>
-    <tr>
-    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
-    </th>
-      <td style="font-weight:bold" align="left">이슬찬 (Lee, Seulchan)</td>
-    </tr>
-    <tr>
-      <td align="left">학석통합과정, 2018.09 - 현재</td>
-    </tr>
-    <tr>
-      <td align="left">학사 화학공학, 부산대학교, 2018</td>
-      </tr>
-    <tr>
-        <td align="left">자일렌 분리, 메탄 저장</td>
-    </tr>
-  </tbody>
+</table>
 
+<h3>석사과정 (Master's Student)</h3>
+<table>
+  <col>
+  <col>
+  <colgroup span="2"></colgroup>
+  <thead>
+  </thead>
+
+    <tbody>
+      <tr>
+      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+      </th>
+        <td style="font-weight:bold" align="left">이슬찬 (Lee, Seulchan)</td>
+      </tr>
+      <tr>
+        <td align="left">학석통합과정, 2018.09 - 현재</td>
+      </tr>
+      <tr>
+        <td align="left">학사 화학공학, 부산대학교, 2018</td>
+        </tr>
+      <tr>
+          <td align="left">자일렌 분리, 메탄 저장</td>
+      </tr>
+    </tbody>
+
+</table>
+
+<h3>학부연구생 (Current Undergraduate) </h3>
+<table>
+  <col>
+  <col>
+  <colgroup span="2"></colgroup>
+  <thead>
+  </thead>
   <tbody>
     <tr>
       <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
@@ -76,9 +95,10 @@ order: 1
         <td align="left"> 이산화탄소 전환, 차세대 나노다공성 물질 데이터베이스 </td>
     </tr>
   </tbody>
+
 </table>
 
-<h3>학연과정 (Affiliated Members)</h3>
+<h3>학연과정 (Affiliated Degree Program)</h3>
 <table>
   <col>
   <col>
@@ -121,7 +141,7 @@ order: 1
   </tbody>
 </table>
 
-<h3>졸업생 (Alumni) </h3>
+<h3>졸업생 (Former Group Members) </h3>
 
 <table>
   <col>
