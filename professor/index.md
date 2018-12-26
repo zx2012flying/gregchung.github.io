@@ -11,11 +11,9 @@ img.resize {
 </style>
 
 <table>
-  <col>
+
   <col>
   <colgroup span="2"></colgroup>
-  <thead>
-  </thead>
 
     <tbody>
       <tr>
