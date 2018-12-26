@@ -62,6 +62,26 @@ order: 1
 
   <tbody>
     <tr>
+      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+      </th>
+      <td style="font-weight:bold" align="left">윤성현 (Yoon, Sunghyun)</td>
+    </tr>
+    <tr>
+      <td align="left">학부연구생, 2018.08 - 현재</td>
+    </tr>
+    <tr>
+      <td align="left"> 학사 화학공학, 부산대학교, 2019 </td>
+      </tr>
+    <tr>
+        <td align="left"> 이산화탄소 전환, 차세대 나노다공성 물질 데이터베이스 </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>학연과정 (Affiliated Members)</h3>
+
+  <tbody>
+    <tr>
     <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
     </th>
       <td style="font-weight:bold" align="left">강세희 (Kang, Sehee)</td>
@@ -94,24 +114,6 @@ order: 1
     </tr>
   </tbody>
 
-  <tbody>
-    <tr>
-      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
-      </th>
-      <td style="font-weight:bold" align="left">윤성현 (Yoon, Sunghyun)</td>
-    </tr>
-    <tr>
-      <td align="left">학부연구생, 2018.08 - 현재</td>
-    </tr>
-    <tr>
-      <td align="left"> 학사 화학공학, 부산대학교, 2019 </td>
-      </tr>
-    <tr>
-        <td align="left"> 이산화탄소 전환, 차세대 나노다공성 물질 데이터베이스 </td>
-    </tr>
-  </tbody>
-</table>
-
 <h3>졸업생 (Alumni) </h3>
 
 <table>
@@ -128,7 +130,7 @@ order: 1
       <td style="font-weight:bold" align="left">남수명 (Nam, Soo Myung)</td>
     </tr>
     <tr>
-      <td align="left">석사과정, 2017.03 - 현재</td>
+      <td align="left">석사과정, 2017.03 - 2019.02</td>
     </tr>
     <tr>
       <td align="left">학사 에너지화학공학, 경북대학교, 2017</td>
