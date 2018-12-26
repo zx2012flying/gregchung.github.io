@@ -79,6 +79,12 @@ order: 1
 </table>
 
 <h3>학연과정 (Affiliated Members)</h3>
+<table>
+  <col>
+  <col>
+  <colgroup span="2"></colgroup>
+  <thead>
+  </thead>
 
   <tbody>
     <tr>
@@ -113,6 +119,7 @@ order: 1
         <td align="left"> ... </td>
     </tr>
   </tbody>
+</table>
 
 <h3>졸업생 (Alumni) </h3>
 
