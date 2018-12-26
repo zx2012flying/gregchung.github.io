@@ -3,13 +3,34 @@ layout: page
 title: professor
 order: 1
 ---
-![](/images/ygchung_profile.jpg =250x)
+<table>
+  <col>
+  <col>
+  <colgroup span="2"></colgroup>
+  <thead>
+  </thead>
 
-정용철 (Chung, Yongchul G.)
+    <tbody>
+      <tr>
+      <th rowspan="5" scope="rowgroup"> <img src="/images/ygchung_profile.jpg" width="50%" height="50%">
+      </th>
+        <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.)  | <a href="http://doodle.com/greg.chung">Doodle Scheduler</a> </td>
+      </tr>
+      <tr>
+        <td align="left">Assistant Professor </td>
+      </tr>
+      <tr>
+        <td align="left">drygchung(at)gmail.com</td>
+        </tr>
+      <tr>
+          <td align="left">Office: 부산광역시 금정구 장전동 부산대학로 63번길 2 제7공학관 교수연구동 103호 </td>
+      </tr>
+      <tr>
+          <td align="left">Office Telephone: +82-51-510-3757</td>
+      </tr>
+    </tbody>
 
-<a href="http://doodle.com/greg.chung">Doodle Scheduler</a>
-
-drygchung(at)gmail.com
+</table>
 
 # Education
 
