@@ -79,16 +79,16 @@ img.resize {
 <h4>졸업생 (Former Group Members) </h4>
 
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" alt="남수명" title="이슬찬" style="font-size: 10px;" />
+<img class="resize" src="/images/profile_pic.png" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>남수명 (Nam, Soo Myung)</b></p>
 <p>석사과정, 2017.03 - 2019.02 </p>
 <p>학사 에너지화학공학, 경북대학교, 2017 </p>
 <p><strong>연구주제: </strong>SF<sub>6</sub>/N<sub>2</sub> 스크리닝</p>
-</td>
-</tr>
-<img class="resize" src="/images/profile_pic.png" alt="정충식" title="이슬찬" style="font-size: 10px;" />
+</td></tr>
+<tr><td style="width: 180px;">
+<img class="resize" src="/images/profile_pic.png" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>정충식 (Jeong, Chungsik)</b></p>
