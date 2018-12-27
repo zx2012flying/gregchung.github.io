@@ -33,13 +33,7 @@ img.resize {
 </table>
 
 <h4>석사과정 (Current Master's Student)</h4>
-<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-  <col>
-  <col>
-  <colgroup span="2"></colgroup>
-  <thead>
-  </thead>
-
+<table frame="void" border="0" style="width: 1200px;"><tbody><td style="width: 180px;"> <colgroup span="2"></colgroup>
     <tbody>
       <tr>
       <th rowspan="4" scope="rowgroup"> <img class="resize" src="/images/leeseulchan.jpg">
@@ -56,7 +50,6 @@ img.resize {
           <td align="left">자일렌 분리, 메탄 저장</td>
       </tr>
     </tbody>
-
 </table>
 
 <h4>학부연구생 (Current Undergraduates) </h4>
