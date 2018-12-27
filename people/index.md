@@ -5,7 +5,7 @@ order: 2
 ---
 <style type="text/css">
 img.resize {
-  max-width:100%;
+  max-width:75%;
   align:left;
 }
 </style>
