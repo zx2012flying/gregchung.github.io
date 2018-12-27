@@ -35,7 +35,7 @@ order: 2
 
     <tbody>
       <tr>
-      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+      <th rowspan="4" scope="rowgroup"> <img src="/images/leeseulchan.jpg" width="50%" height="50%">
       </th>
         <td style="font-weight:bold" align="left">이슬찬 (Lee, Seulchan)</td>
       </tr>
@@ -88,7 +88,7 @@ order: 2
 
   <tbody>
     <tr>
-    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    <th rowspan="4" scope="rowgroup"> <img src="/images/kangsehee.png" width="50%" height="50%">
     </th>
       <td style="font-weight:bold" align="left">강세희 (Kang, Sehee)</td>
     </tr>
