@@ -33,7 +33,7 @@ img.resize {
 </table>
 
 <h4>석사과정 (Current Master's Student)</h4>
-<table>
+<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
   <col>
   <col>
   <colgroup span="2"></colgroup>
