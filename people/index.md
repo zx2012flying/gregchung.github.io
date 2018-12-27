@@ -5,7 +5,7 @@ order: 2
 ---
 <style type="text/css">
 img.resize {
-  max-width:100%;
+  max-width:75%;
   align:left;
 }
 </style>
@@ -56,17 +56,18 @@ img.resize {
 </tr></tbody></table>
 
 <h4>학연과정 (Affiliated Degree Program)</h4>
-<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<h2><img class="resize" src="/images/kangsehee.png" alt="윤성9" title="이슬찬" style="font-size: 10px;" /></h2>
+<table frame="void" border="0" style="width: 1200px;"><tbody>
+<tr><td style="width: 180px;">
+<h2><img class="resize" src="/images/kangsehee.png" alt="강세희" title="이슬찬" style="font-size: 10px;" /></h2>
 </td>
 <td align="left" valign="bottom">
 <p><b>강세희 (Kang, Sehee)</b></p>
 <p>학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 현재 </p>
 <p>학사 화학공학, 부산대학교, 2016 </p>
 <p><strong>연구주제: </strong>이산화탄소 흡수제 개발</p>
-</td>
-</tr>
-<h2><img class="resize" src="/images/kangsehee.png" alt="윤성9" title="이슬찬" style="font-size: 10px;" /></h2>
+</td></tr>
+<tr><td style="width: 180px;">
+<img class="resize" src="/images/profile_pic.png" alt="제현모" title="제현모" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>제현모 (Jae, Hyunmo)</b></p>
@@ -78,16 +79,16 @@ img.resize {
 <h4>졸업생 (Former Group Members) </h4>
 
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<h2><img class="resize" src="/images/kangsehee.png" alt="윤성9" title="이슬찬" style="font-size: 10px;" /></h2>
+<h2><img class="resize" src="/images/profile_pic.png" alt="남수명" title="이슬찬" style="font-size: 10px;" /></h2>
 </td>
 <td align="left" valign="bottom">
 <p><b>남수명 (Nam, Soo Myung)</b></p>
 <p>석사과정, 2017.03 - 2019.02 </p>
 <p>학사 에너지화학공학, 경북대학교, 2017 </p>
 <p><strong>연구주제: </strong><td align="left">SF<sub>6</sub>/N<sub>2</sub> 스크리닝</td></p>
-</td>
-</tr>
-<h2><img class="resize" src="/images/kangsehee.png" alt="윤성9" title="이슬찬" style="font-size: 10px;" /></h2>
+</td></tr>
+<tr><td style="width: 180px;">
+<img class="resize" src="/images/profile_pic.png" alt="정충식" title="정충식" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>정충식 (Jeong, Chungsik)</b></p>
