@@ -10,32 +10,17 @@ img.resize {
 }
 </style>
 
-<table>
-
-  <col>
-  <colgroup span="2"></colgroup>
-
-    <tbody>
-      <tr>
-      <th rowspan="5" scope="rowgroup"> <img class="resize" src="/images/ygchung_profile.jpg">
-      </th>
-        <td style="font-weight:bold" align="left">정용철 (Chung, Yongchul G.) <a href="http://doodle.com/greg.chung">Doodle Scheduler</a> </td>
-      </tr>
-      <tr>
-        <td align="left">Assistant Professor </td>
-      </tr>
-      <tr>
-        <td align="left">drygchung(at)gmail.com</td>
-        </tr>
-      <tr>
-          <td align="left">Office: 부산광역시 금정구 장전동 부산대학로 63번길 2 제7공학관 교수연구동 103호 </td>
-      </tr>
-      <tr>
-          <td align="left">Office Telephone: +82-51-510-3757</td>
-      </tr>
-    </tbody>
-
-</table>
+<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
+<img class="resize" src="/images/ygchung_profile.jpg" style="font-size: 10px;" />
+</td>
+<td align="left" valign="bottom">
+<p><b>정용철 (Chung, Yongchul G.)</b> <a href="http://doodle.com/greg.chung">Doodle Scheduler</a></p>
+<p>Assistant Professor </p>
+<p>Office: 부산광역시 금정구 장전동 부산대학로 63번길 2 제7공학관 교수연구동 103호 </p>
+<p>drygchung(at)gmail.com</p>
+<p>Office Telephone: +82-51-510-3757 </p>
+</td>
+</tr></tbody></table>
 
 # Education
 Ph.D. Chemical Engineering, Case Western Reserve University, 2013
