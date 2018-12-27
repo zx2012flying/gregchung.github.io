@@ -45,7 +45,7 @@ img.resize {
 </tr></tbody></table>
 <h4>학부연구생 (Current Undergraduates) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" alt="윤성9" title="이슬찬" style="font-size: 10px;" />
+<img class="resize" src="/images/profile_pic.png" alt="이슬찬" title="이슬찬" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>윤성현 (Yoon, Sunghyun)</b></p>
@@ -77,7 +77,6 @@ img.resize {
 </td></tr></tbody></table>
 
 <h4>졸업생 (Former Group Members) </h4>
-
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
 <img class="resize" src="/images/profile_pic.png" style="font-size: 10px;" />
 </td>
