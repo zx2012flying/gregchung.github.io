@@ -3,6 +3,13 @@ layout: page
 title: people
 order: 2
 ---
+<style type="text/css">
+img.resize {
+  max-width:50%;
+  align:left;
+}
+</style>
+
 <h4>박사후연구원 (Current Postdocs)</h4>
 <table>
   <col>
@@ -35,7 +42,7 @@ order: 2
 
     <tbody>
       <tr>
-      <th rowspan="4" scope="rowgroup"> <img src="/images/leeseulchan.jpg" width="50%" height="50%">
+      <th rowspan="4" scope="rowgroup"> <img class="resize" src="/images/leeseulchan.jpg">
       </th>
         <td style="font-weight:bold" align="left">이슬찬 (Lee, Seulchan)</td>
       </tr>
@@ -61,7 +68,7 @@ order: 2
   </thead>
   <tbody>
     <tr>
-      <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+      <th rowspan="4" scope="rowgroup"> <img class="resize" src="/images/profile_pic.png">
       </th>
       <td style="font-weight:bold" align="left">윤성현 (Yoon, Sunghyun)</td>
     </tr>
@@ -88,7 +95,7 @@ order: 2
 
   <tbody>
     <tr>
-    <th rowspan="4" scope="rowgroup"> <img src="/images/kangsehee.png" width="50%" height="50%">
+    <th rowspan="4" scope="rowgroup"> <img class="resize" src="/images/kangsehee.png">
     </th>
       <td style="font-weight:bold" align="left">강세희 (Kang, Sehee)</td>
     </tr>
@@ -105,7 +112,7 @@ order: 2
 
   <tbody>
     <tr>
-    <th rowspan="4" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    <th rowspan="4" scope="rowgroup"> <img class="resize" src="/images/profile_pic.png">
     </th>
     <td style="font-weight:bold" align="left">제현모 (Jae, Hyunmo)</td>
     </tr>
@@ -132,7 +139,7 @@ order: 2
 
   <tbody>
     <tr>
-    <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    <th rowspan="5" scope="rowgroup"> <img class="resize" src="/images/profile_pic.png">
     </th>
       <td style="font-weight:bold" align="left">남수명 (Nam, Soo Myung)</td>
     </tr>
@@ -153,7 +160,7 @@ order: 2
 
   <tbody>
     <tr>
-    <th rowspan="5" scope="rowgroup"> <img src="/images/profile_pic.png" width="50%" height="50%">
+    <th rowspan="5" scope="rowgroup"> <img class="resize" src="/images/profile_pic.png">
     </th>
       <td style="font-weight:bold" align="left">정충식 (Jeong, Chungsik)</td>
     </tr>
