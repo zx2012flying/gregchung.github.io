@@ -3,13 +3,11 @@
 title: Chung Research Group
 locale: en_US
 search: true
-email: greg.chung[at]pusan.ac.kr
+email: drygchung[at]gmail.com
 description: School of Chemical & Biomolecular Engineering, 7th Engineering Building, Busan Korea (South)
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gregchung.github.io" # the base hostname & protocol for your site
-twitter_username: DrYGChung
-github_username:  gregchung
 
 # Build settings
 #markdown: kramdown
