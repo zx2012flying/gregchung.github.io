@@ -7,7 +7,6 @@ email: drygchung[at]gmail.com
 description: School of Chemical & Biomolecular Engineering, 7th Engineering Building, Busan Korea (South)
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gregchung.github.io" # the base hostname & protocol for your site
 
 # Build settings
 #markdown: kramdown
