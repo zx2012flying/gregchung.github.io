@@ -11,7 +11,6 @@ img.resize {
 </style>
 
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-</td>
 <td align="left" valign="bottom">
 <p><b>정용철 </b>
 <p>drygchung(at)gmail.com</p>
