@@ -33,7 +33,7 @@ img.resize {
 </td>
 </tr></tbody></table>
 
-<h4>석사과정 (Current Master's Student)</h4>
+<h4>석사과정 (Current Master's Students)</h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
 <img class="resize" src="/images/leeseulchan.jpg" alt="이슬찬" title="이슬찬" style="font-size: 10px;" />
 </td>
