@@ -59,7 +59,7 @@ img.resize {
 <img class="resize" src="/images/profile_pic.png" alt="한승윤" title="한승윤" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
-<p><b>한승윤 (Han, Seungyoon)</b></p>
+<p><b>한승윤 (Han, Seungyun)</b></p>
 <p>학부연구생, 2019.01 - 현재 </p>
 <p><strong>연구주제:</strong> - </p>
 </td>
