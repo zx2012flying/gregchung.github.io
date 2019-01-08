@@ -21,15 +21,17 @@ img.resize {
 </table>
 
 <h4>박사과정 (Current Ph.D. Students)</h4>
-<table>
-  <col>
-  <col>
-  <colgroup span="2"></colgroup>
-  <thead>
-  </thead>
 
-<font face="courier new">Currently Not Available</font>
-
+<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
+<img class="resize" src="/images/sunghyun.jpg" alt="윤성현" title="윤성현" style="font-size: 10px;" />
+</td>
+<td align="left" valign="bottom">
+<p><b>윤성현 (Yoon, Sunghyun)</b></p>
+<p>석박통합과정, 2019.03 - 현재 </p>
+<p>학사 화학공학, 부산대학교, 2019 </p>
+<p><strong>연구주제: </strong>기체 분리, 차세대 나노다공성 물질 데이터베이스</p>
+</td>
+</tr></tbody></table>
 </table>
 
 <h4>석사과정 (Current Master's Student)</h4>
@@ -40,18 +42,27 @@ img.resize {
 <p><b>이슬찬 (Lee, Seulchan)</b></p>
 <p>학석통합과정, 2018.09 - 현재 </p>
 <p>학사 화학공학, 부산대학교, 2018 </p>
-<p><strong>연구주제: </strong>자일렌 분리, 메탄 저장</p>
+<p><strong>연구주제: </strong>기체 저장 및 분리</p>
 </td>
 </tr></tbody></table>
 <h4>학부연구생 (Current Undergraduates) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" alt="이슬찬" title="이슬찬" style="font-size: 10px;" />
+<img class="resize" src="/images/profile_pic.jpg" alt="김주용" title="김주용" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
-<p><b>윤성현 (Yoon, Sunghyun)</b></p>
-<p>학부연구생, 2018.08 - 현재 </p>
-<p>학사 화학공학, 부산대학교, 2019 </p>
-<p><strong>연구주제: </strong>이산화탄소 전환, 차세대 나노다공성 물질 데이터베이스</p>
+<p><b>김주용 (Kim, Juyong)</b></p>
+<p>학부연구생, 2019.01 - 현재 </p>
+<p><strong>연구주제:</strong> - </p>
+</td>
+</tr></tbody></table>
+
+<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
+<img class="resize" src="/images/profile_pic.jpg" alt="한승윤" title="한승윤" style="font-size: 10px;" />
+</td>
+<td align="left" valign="bottom">
+<p><b>한승윤 (Han, Seungyoon)</b></p>
+<p>학부연구생, 2019.01 - 현재 </p>
+<p><strong>연구주제:</strong> - </p>
 </td>
 </tr></tbody></table>
 
