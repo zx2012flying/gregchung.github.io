@@ -41,7 +41,7 @@ img.resize {
 <p><b>이슬찬 (Lee, Seulchan)</b></p>
 <p>학석통합과정, 2018.09 - 현재 </p>
 <p>학사 화학공학, 부산대학교, 2018 </p>
-<p><strong>연구주제: </strong>기체 저장 및 분리</p>
+<p><strong>연구주제: </strong>에너지 저장 및 이성질체 분리</p>
 </td>
 </tr></tbody></table>
 <h4>학부연구생 (Current Undergraduates) </h4>
