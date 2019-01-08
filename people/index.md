@@ -32,7 +32,6 @@ img.resize {
 <p><strong>연구주제: </strong>기체 분리, 차세대 나노다공성 물질 데이터베이스</p>
 </td>
 </tr></tbody></table>
-</table>
 
 <h4>석사과정 (Current Master's Student)</h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
@@ -47,7 +46,7 @@ img.resize {
 </tr></tbody></table>
 <h4>학부연구생 (Current Undergraduates) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.jpg" alt="김주용" title="김주용" style="font-size: 10px;" />
+<img class="resize" src="/images/profile_pic.png" alt="김주용" title="김주용" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>김주용 (Kim, Juyong)</b></p>
@@ -57,7 +56,7 @@ img.resize {
 </tr></tbody></table>
 
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.jpg" alt="한승윤" title="한승윤" style="font-size: 10px;" />
+<img class="resize" src="/images/profile_pic.png" alt="한승윤" title="한승윤" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>한승윤 (Han, Seungyoon)</b></p>
