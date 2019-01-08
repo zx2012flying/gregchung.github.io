@@ -73,7 +73,7 @@ img.resize {
 <td align="left" valign="bottom">
 <p><b>강세희 (Kang, Sehee)</b></p>
 <p>학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 현재 </p>
-<p>학사 화학공학, 부산대학교, 2016 </p>
+<p>학사 화학공학, 부산대학교, 2017 </p>
 <p><strong>연구주제: </strong>이산화탄소 흡수제 개발</p>
 </td></tr>
 <tr><td style="width: 180px;">
