@@ -56,7 +56,7 @@ img.resize {
 </tr></tbody></table>
 
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" alt="한승윤" title="한승윤" style="font-size: 10px;" />
+<img class="resize" src="/images/seungyun.jpg" alt="한승윤" title="한승윤" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>한승윤 (Han, Seungyun)</b></p>
