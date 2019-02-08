@@ -46,12 +46,12 @@ img.resize {
 </tr></tbody></table>
 <h4>학부연구생 (Current Undergraduates) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" alt="김주용" title="김주용" style="font-size: 10px;" />
+<img class="resize" src="/images/juyongkim.jpg" alt="김주용" title="김주용" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>김주용 (Kim, Juyong)</b></p>
 <p>학부연구생, 2019.01 - 현재 </p>
-<p><strong>연구주제:</strong> - </p>
+<p><strong>연구주제:</strong> 금속유기다면체 모델링 </p>
 </td>
 </tr></tbody></table>
 
@@ -61,7 +61,7 @@ img.resize {
 <td align="left" valign="bottom">
 <p><b>한승윤 (Han, Seungyun)</b></p>
 <p>학부연구생, 2019.01 - 현재 </p>
-<p><strong>연구주제:</strong> - </p>
+<p><strong>연구주제:</strong> 차세대 다공성물질 열/기계적 안정성 모델링 </p>
 </td>
 </tr></tbody></table>
 
