@@ -102,7 +102,7 @@ img.resize {
 <td align="left" valign="bottom">
 <p><b>서수정 (Seo, Sujeong)</b></p>
 <p>학연석사과정 (한국생산기술연구소 울산본부), 2019.03 - 현재 </p>
-<p>학사 화학공학과, 울산대학교, 2019 </p>
+<p>학사 화학공학, 울산대학교, 2019 </p>
 <p><strong>연구주제: </strong>...</p>
 </td></tr>
 </td></tr></tbody></table>
