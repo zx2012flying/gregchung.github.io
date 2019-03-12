@@ -76,6 +76,7 @@ img.resize {
 <p>학사 화학공학, 부산대학교, 2017 </p>
 <p><strong>연구주제: </strong>이산화탄소 흡수제 개발</p>
 </td></tr>
+
 <tr><td style="width: 180px;">
 <img class="resize" src="/images/profile_pic.png" alt="제현모" title="제현모" style="font-size: 10px;" />
 </td>
@@ -84,10 +85,9 @@ img.resize {
 <p>학연석사과정 (한국세라믹연구소), 2018.03 - 현재 </p>
 <p>... </p>
 <p><strong>연구주제: </strong>...</p>
-</td></tr></tbody></table>
-<table frame="void" border="0" style="width: 1200px;"><tbody>
+
 <tr><td style="width: 180px;">
-<img class="resize" src="/images/kangsehee.png" alt="권혁원" title="권혁원" style="font-size: 10px;" />
+<img class="resize" src="/images/khw.jpg" alt="권혁원" title="권혁원" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>권혁원 (Kwon, Hyukwon)</b></p>
@@ -95,8 +95,9 @@ img.resize {
 <p>학사 화학공학, 부경대학교, 2019 </p>
 <p><strong>연구주제: </strong>공정 시뮬레이션 및 데이터 분석</p>
 </td></tr>
+
 <tr><td style="width: 180px;">
-<img class="resize" src="/images/ssj.png" alt="서수정" title="권혁원" style="font-size: 10px;" />
+<img class="resize" src="/images/ssj.jpg" alt="서수정" title="권혁원" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>서수정 (Seo, Sujeong)</b></p>
@@ -104,7 +105,9 @@ img.resize {
 <p>학사 화학공학과, 울산대학교, 2019 </p>
 <p><strong>연구주제: </strong>...</p>
 </td></tr>
+</td></tr></tbody></table>
 
+<table frame="void" border="0" style="width: 1200px;"><tbody>
 <h4>졸업생 (Former Group Members) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
 <img class="resize" src="/images/profile_pic.png" style="font-size: 10px;" />
