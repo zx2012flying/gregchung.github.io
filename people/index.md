@@ -68,7 +68,7 @@ img.resize {
 <h4>학연과정 (Affiliated Degree Program)</h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody>
 <tr><td style="width: 180px;">
-<img class="resize" src="/images/kangsehee.png" alt="강세희" title="이슬찬" style="font-size: 10px;" />
+<img class="resize" src="/images/kangsehee.png" alt="강세희" title="강세희" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
 <p><b>강세희 (Kang, Sehee)</b></p>
@@ -85,6 +85,25 @@ img.resize {
 <p>... </p>
 <p><strong>연구주제: </strong>...</p>
 </td></tr></tbody></table>
+<table frame="void" border="0" style="width: 1200px;"><tbody>
+<tr><td style="width: 180px;">
+<img class="resize" src="/images/kangsehee.png" alt="권혁원" title="권혁원" style="font-size: 10px;" />
+</td>
+<td align="left" valign="bottom">
+<p><b>권혁원 (Kwon, Hyukwon)</b></p>
+<p>학연석사과정 (한국생산기술연구소 친환경재료연구소), 2019.02 - 현재 </p>
+<p>학사 화학공학, 부경대학교, 2019 </p>
+<p><strong>연구주제: </strong>공정 시뮬레이션 및 데이터 분석</p>
+</td></tr>
+<tr><td style="width: 180px;">
+<img class="resize" src="/images/ssj.png" alt="서수정" title="권혁원" style="font-size: 10px;" />
+</td>
+<td align="left" valign="bottom">
+<p><b>서수정 (Seo, Sujeong)</b></p>
+<p>학연석사과정 (한국생산기술연구소 울산본부), 2019.03 - 현재 </p>
+<p>학사 화학공학과, 울산대학교, 2019 </p>
+<p><strong>연구주제: </strong>...</p>
+</td></tr>
 
 <h4>졸업생 (Former Group Members) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
