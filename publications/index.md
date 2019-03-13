@@ -6,7 +6,9 @@ order: 4
 <a href="https://scholar.google.co.kr/citations?hl=en&user=1bRl4o4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar </a>
 <br>
 <ol reversed>
-#2019 (5)
+
+2019 (5)
+
 <small>
 <li>K. Leperi<sup>†</sup>, Y.G. Chung<sup>†</sup>, F. You<sup>*</sup>, R.Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
 <br>
@@ -20,7 +22,8 @@ order: 4
 <br>
 </small>
 
-# 2018 (3)
+2018 (3)
+
 <small>
 <li>G.G. Choi, J.F. Kurisingal, Y.G. Chung<sup>*</sup>, D.W. Park<sup>*</sup>, &#34;Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides,&#34; <i> Korean Journal of Chemical Engineering </i>, 2018 </li>
 <br>
@@ -30,7 +33,8 @@ order: 4
 <br>
 </small>
 
-# 2017 (4)
+2017 (4)
+
 <small>
 <li>W. Li, Z. Rao, Y.G. Chung, S. Li<sup>*</sup>, &#34;The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions,&#34; <i> ChemistrySelect </i>, 2017 <a href="http://onlinelibrary.wiley.com/doi/10.1002/slct.201701934/abstract"> [paper link] </a> </li>
 <br>
@@ -43,6 +47,7 @@ order: 4
 </small>
 
 2016 (2)
+
 <small>
 <li>Y.G. Chung<sup>†</sup>, D.A. Gomez-Gualdron<sup>†</sup>, P. Li, K.T. Leperi, P. Deria, H. Zhang, N.A. Vermeulen, J.F. Stoddart, F. You, J.T. Hupp, O.K. Hupp, R.Q. Snurr<sup>*</sup>,  &#34;In silico discovery of metal-organic frameworks for CO<sub>2</sub> capture using a genetic algorithm,&#34; <i>Science Advances</i>, 2016 <a href="http://advances.sciencemag.org/content/2/10/e1600909"> [paper link]</a></li>
 - Coverge in the Popular Press: <a href="http://phys.org/news/2016-10-genetic-algorithm-rapidly-candidates-pre-combustion.html">Phys.org</a>, <a href="https://www.sciencedaily.com/releases/2016/10/161017112102.htm">Science Daily</a>, <a href="http://www.materialstoday.com/computation-theory/news/way-to-identify-best-mof-for-the-job/">MaterialsToday </a><br>
@@ -51,7 +56,8 @@ order: 4
 <br>
 </small>
 
-# Before Pusan National Univ.
+Before Pusan National Univ.
+
 <small>
 <li>P. Deria, Y.G. Chung, R.Q. Snurr, J.T. Hupp, O.K. Farha<sup>*</sup>, &#34;Water stabilization of Zr<sub>6</sub>-based metal-organic frameworks via solvent-assisted ligand incorporation,&#34; <i>Chemical Science</i>, 2015 <a href="http://dx.doi.org/10.1039/C5SC01784J"> [paper link]</a></li>
 <br>
