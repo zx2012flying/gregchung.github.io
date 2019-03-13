@@ -5,10 +5,9 @@ order: 4
 ---
 <a href="https://scholar.google.co.kr/citations?hl=en&user=1bRl4o4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar </a>
 <br>
-<ol reversed>
 #2019 (5)
 <small>
-<li>K. Leperi<sup>†</sup>, Y.G. Chung<sup>†</sup>, F. You<sup>*</sup>, R.Q. Snurr<sup>*</sup>, &#34;Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,&#34;  <b>submitted</b> </li>
+<li>K. Leperi<sup>†</sup>, Y.G. Chung<sup>†</sup>, F. You<sup>*</sup>, R.Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
 <br>
 <li>P. Sinha, A. Datar, C. Jeong, X. Deng, Y.G. Chung<sup>*</sup>, L.-C. Lin<sup>*</sup> &#34;Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements,&#34; <b>submitted</b> </li>
 <br>
@@ -22,7 +21,7 @@ order: 4
 
 # 2018 (3)
 <small>
-<li>G.G. Choi, J.F. Kurisingal, Y.G. Chung<sup>*</sup>, D.W. Park<sup>*</sup>, &#34;Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides,&#34; <i> Korean Journal of Chemical Engineering </i><, 2018 </li>
+<li>G.G. Choi, J.F. Kurisingal, Y.G. Chung<sup>*</sup>, D.W. Park<sup>*</sup>, &#34;Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides,&#34; <i> Korean Journal of Chemical Engineering </i>, 2018 </li>
 <br>
 <li>G.S. Jeong, A.C. Kathalikkattil, R. Babu, Y.G. Chung, D.W. Park<sup>*</sup>, &#34;Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst,&#34; <i> Chinese Journal of Catalysis</i>, 2018 <a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml"> [paper link]</a> </li>
 <br>
@@ -68,5 +67,4 @@ order: 4
 <br>
 <li>Y.G. Chung, D.J. Lacks<sup>*</sup>, &#34;Sheared polymer glass and the question of mechanical rejuvenation,&#34; <i>Journal of Chemical Physics</i>, 2012 <a href="http://scitation.aip.org/content/aip/journal/jcp/136/12/10.1063/1.3698473"> [paper link]</a></li>
 <br>
-</ol>
 </small>
