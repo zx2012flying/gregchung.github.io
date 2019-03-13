@@ -7,7 +7,7 @@ order: 4
 <br>
 <ol reversed>
 
-<p><big>2019</big></p> (5)
+<b><big>2019 (5) </big></b>
 
 <small>
 <li>K. Leperi<sup>†</sup>, Y.G. Chung<sup>†</sup>, F. You<sup>*</sup>, R.Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
