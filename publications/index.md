@@ -6,7 +6,7 @@ order: 4
 <a href="https://scholar.google.co.kr/citations?hl=en&user=1bRl4o4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar </a>
 <br>
 <ol reversed>
-<large>2019 (5)</large>
+#2019 (5)
 <small>
 <li>K. Leperi<sup>†</sup>, Y.G. Chung<sup>†</sup>, F. You<sup>*</sup>, R.Q. Snurr<sup>*</sup>, &#34;Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,&#34;  <b>submitted</b> </li>
 <br>
@@ -42,7 +42,7 @@ order: 4
 <br>
 </small>
 
-# 2016 (2)
+2016 (2)
 <small>
 <li>Y.G. Chung<sup>†</sup>, D.A. Gomez-Gualdron<sup>†</sup>, P. Li, K.T. Leperi, P. Deria, H. Zhang, N.A. Vermeulen, J.F. Stoddart, F. You, J.T. Hupp, O.K. Hupp, R.Q. Snurr<sup>*</sup>,  &#34;In silico discovery of metal-organic frameworks for CO<sub>2</sub> capture using a genetic algorithm,&#34; <i>Science Advances</i>, 2016 <a href="http://advances.sciencemag.org/content/2/10/e1600909"> [paper link]</a></li>
 - Coverge in the Popular Press: <a href="http://phys.org/news/2016-10-genetic-algorithm-rapidly-candidates-pre-combustion.html">Phys.org</a>, <a href="https://www.sciencedaily.com/releases/2016/10/161017112102.htm">Science Daily</a>, <a href="http://www.materialstoday.com/computation-theory/news/way-to-identify-best-mof-for-the-job/">MaterialsToday </a><br>
