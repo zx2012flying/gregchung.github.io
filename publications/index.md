@@ -7,7 +7,7 @@ order: 4
 <br>
 <ol reversed>
 
-2019 (5)
+##2019 (5)
 
 <small>
 <li>K. Leperi<sup>†</sup>, Y.G. Chung<sup>†</sup>, F. You<sup>*</sup>, R.Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
@@ -33,7 +33,7 @@ order: 4
 <br>
 </small>
 
-2017 (4)
+##2017 (4)
 
 <small>
 <li>W. Li, Z. Rao, Y.G. Chung, S. Li<sup>*</sup>, &#34;The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions,&#34; <i> ChemistrySelect </i>, 2017 <a href="http://onlinelibrary.wiley.com/doi/10.1002/slct.201701934/abstract"> [paper link] </a> </li>
