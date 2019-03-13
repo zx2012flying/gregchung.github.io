@@ -22,7 +22,7 @@ order: 4
 <br>
 </small>
 
-2018 (3)
+<b><big>2018 (3)</big></b>
 
 <small>
 <li>G.G. Choi, J.F. Kurisingal, Y.G. Chung<sup>*</sup>, D.W. Park<sup>*</sup>, &#34;Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides,&#34; <i> Korean Journal of Chemical Engineering </i>, 2018 </li>
@@ -33,7 +33,7 @@ order: 4
 <br>
 </small>
 
-##2017 (4)
+<b><big>2017 (4)</big></b>
 
 <small>
 <li>W. Li, Z. Rao, Y.G. Chung, S. Li<sup>*</sup>, &#34;The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions,&#34; <i> ChemistrySelect </i>, 2017 <a href="http://onlinelibrary.wiley.com/doi/10.1002/slct.201701934/abstract"> [paper link] </a> </li>
@@ -46,7 +46,7 @@ order: 4
 <br>
 </small>
 
-2016 (2)
+<b><big>2016 (2)</big></b>
 
 <small>
 <li>Y.G. Chung<sup>†</sup>, D.A. Gomez-Gualdron<sup>†</sup>, P. Li, K.T. Leperi, P. Deria, H. Zhang, N.A. Vermeulen, J.F. Stoddart, F. You, J.T. Hupp, O.K. Hupp, R.Q. Snurr<sup>*</sup>,  &#34;In silico discovery of metal-organic frameworks for CO<sub>2</sub> capture using a genetic algorithm,&#34; <i>Science Advances</i>, 2016 <a href="http://advances.sciencemag.org/content/2/10/e1600909"> [paper link]</a></li>
@@ -56,7 +56,7 @@ order: 4
 <br>
 </small>
 
-Before Pusan National Univ.
+<b><big>Before Pusan National Univ.</big></b>
 
 <small>
 <li>P. Deria, Y.G. Chung, R.Q. Snurr, J.T. Hupp, O.K. Farha<sup>*</sup>, &#34;Water stabilization of Zr<sub>6</sub>-based metal-organic frameworks via solvent-assisted ligand incorporation,&#34; <i>Chemical Science</i>, 2015 <a href="http://dx.doi.org/10.1039/C5SC01784J"> [paper link]</a></li>
