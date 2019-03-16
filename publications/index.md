@@ -10,17 +10,17 @@ order: 4
 <b><big>2019 (6) </big></b>
 
 <small>
-<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Col´on,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," <i>(Invited Review to Molecular Simulation)</i>, <b>submitted</b> </li>
+<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Col´on,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," (Invited Review to <i>Molecular Simulation</i>), <b>submitted</b> </li>
 <br>
 <li>Karson Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
 <br>
-<li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> &#34;Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements,&#34; <b>submitted</b> </li>
+<li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <b>submitted</b> </li>
 <br>
-<li>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup> &#34;Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments,&#34; <i> Coordination Chemistry Reviews</i>, 2019, <b>accepted</b> </li>
+<li>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup> "Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments," <i> Coordination Chemistry Reviews</i>, 2019, <b>accepted</b> </li>
 <br>
-<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, &#34;Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction,&#34;  <b>in revision, </b> <i>Applied Catalysis B: Environmental</i></li>
+<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, "Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction, <i>Applied Catalysis B: Environmental</i>,<b>in revision </b></li>
 <br>
-<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> &#34;Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019,&#34; <b>in revision, </b> <i>Journal of Materials Chemistry A</i></li>
+<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>in revision </b></li>
 <br>
 </small>
 
