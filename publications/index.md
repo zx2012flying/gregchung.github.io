@@ -10,26 +10,26 @@ order: 4
 <b><big>2019 (6) </big></b>
 
 <small>
-<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," (Invited Review to <i>Molecular Simulation</i>), <b>submitted</b> </li>
+<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," (Invited Review to <i>Molecular Simulation</i>), <b>submitted</b> </li> (IF = 1.449)
 <br>
 <li>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
 <br>
 <li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <b>submitted</b> </li>
 <br>
-<li>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup> "Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments," <i> Coordination Chemistry Reviews</i>, 2019, <b>accepted</b> </li>
+<li>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup> "Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments," <i> Coordination Chemistry Reviews</i>, 2019, <b>accepted</b> </li> (IF = 14.499)
 <br>
-<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, "Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction, <i>Applied Catalysis B: Environmental</i>, <b>in revision </b></li>
+<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, "Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction, <i>Applied Catalysis B: Environmental</i>, <b>in revision </b></li> (IF = 11.698)
 <br>
-<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>in revision </b></li>
+<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>in revision </b></li> (IF = 9.931)
 <br>
 </small>
 
 <b><big>2018 (3)</big></b>
 
 <small>
-<li>Gak-Gyu. Choi, Jintu F. Kurisingal, Yongchul G. Chung<sup>*</sup>, Dae Won Park<sup>*</sup>, "Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides," <i> Korean Journal of Chemical Engineering </i>, 2018 </li>
+<li>Gak-Gyu. Choi, Jintu F. Kurisingal, Yongchul G. Chung<sup>*</sup>, Dae Won Park<sup>*</sup>, "Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides," <i> Korean Journal of Chemical Engineering </i>, 2018 </li> (IF = 2.199)
 <br>
-<li>Gyeong Seon Jeong, Amal C. Kathalikkattil, Robin Babu, Yongchul G. Chung, Dae Won Park<sup>*</sup>, "Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst," <i> Chinese Journal of Catalysis</i>, 2018 <a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml"> [paper link]</a> </li>
+<li>Gyeong Seon Jeong, Amal C. Kathalikkattil, Robin Babu, Yongchul G. Chung, Dae Won Park<sup>*</sup>, "Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst," <i> Chinese Journal of Catalysis</i>, 2018 <a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml"> [paper link]</a> </li> 
 <br>
 <li>Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>, "High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture,<i> J. Phys. Chem. Lett.</i>, 2018 <a href="http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700"> [paper link]</a> </li>
 <br>
