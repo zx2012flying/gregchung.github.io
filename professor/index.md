@@ -17,5 +17,4 @@ img.resize {
 
 # Professional Experience
 Assistant Professor, Chemical & Biomolecular Engineering, Pusan National University, 2016.03 - 현재
-
 Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016
