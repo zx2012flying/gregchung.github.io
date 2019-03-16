@@ -3,7 +3,7 @@ layout: page
 title: research
 order: 3
 ---
-## 1. 온실가스 흡착 포집 및 촉매 전환 (CO<sub>2</sub> capture and utilization) (funded by NRF-2016R1D1A1B03934484)
+## 1. 이산화탄소 흡착 포집 및 촉매 전환 (CO<sub>2</sub> capture and conversion) (funded by NRF-2016R1D1A1B03934484)
 The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting the climate in unusual ways. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes. Following the separation process, the captured CO<sub>2</sub> must be either geologically sequestered or transformed into high-value chemicals.
 
 Our group uses a combination of density functional theory (DFT) calculations, grand canonical Monte Carlo (GCMC), and process-level simulations to investigate the CO<sub>2</sub> capture, separation, and conversion in porous materials.
