@@ -9,14 +9,16 @@ The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting t
 Our group uses a combination of density functional theory (DFT) calculations, grand canonical Monte Carlo (GCMC), and process-level simulations to investigate the CO<sub>2</sub> capture, separation, and conversion in porous materials.
 
 <b>The project is funded by NRF-2016R1D1A1B03934484 (Nov. 2016 - Oct. 2019).</b>
+<br>
 <b>Collaborators:</b> Prof. Dae Won Park (Chemical Engineering, Pusan National University)
 
-# 2. 탄화수소 흡착 분리 (Adsorptive Hydrocarbon Separation)
-Separation of hexane isomers is an important separation task in petrochemical industry. More than 94% of the transportation energy spent in the U.S. in 2010 is based on gasoline, and hexane isomers are major components of the gasoline, comprising more than 10% by volume. Separation of hexane isomers, however, are challenging because traditional, energy-intensive separation process, such as distillation, is practically impossible due to closely matched vapor pressure between the isomers.
+# 2. 탄화수소 흡착 분리 (Adsorptive Separation of Hydrocarbons)
+Energy-efficient separation of straight alkanes (e.g., hexane) and aromatic (e.g., xylene) hydrocarbon isomers are important tasks in petrochemical industry. More than 94% of the transportation energy spent in the U.S. in 2010 is based on gasoline, and hexane isomers are major components of the gasoline, comprising more than 10% by volume. Xylene isomers are mainly derived from catalytic reforming of crude oil. Among the isomers, para-xylene is the most valuable intermediate. Separation of hexane and xylene isomers, however, are challenging because traditional, energy-intensive separation process, such as distillation, is practically impossible due to closely matched vapor pressure between the isomers.
 
 Our group uses grand canonical Monte Carlo (GCMC) simulations to investigate porous materials that can efficiently separate hydrocarbons.
 
 <b>The project is funded by NRF-2016R1D1A1B03934484 (Nov. 2016 - Oct. 2019).</b>
+<br>
 <b>Collaborators:</b> Prof. Young-Sang Bae (Chemical Engineering, Yonsei University, Korea)
 
 # 3. Computation-Ready, Experimental Metal-organic framework (CoRE MOF) database
@@ -32,4 +34,5 @@ Our group collaborates with other research groups around the world to collect, c
 - <a href="http://gregchung.github.io/CoRE-MOFs/">Computation-Ready, Experimental Metal-Organic Frameworks Database</a>
 
 <b>The project is funded by NRF-2016R1D1A1B03934484 (Nov. 2016 - Oct. 2019).</b>
+<br>
 <b>Collaborators:</b> Prof. J. Ilja Siepmann (University of Minnesota - Twin Cities, Chemistry)
