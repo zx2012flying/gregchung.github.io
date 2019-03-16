@@ -7,9 +7,11 @@ order: 4
 <br>
 <ol reversed>
 
-<b><big>2019 (5) </big></b>
+<b><big>2019 (6) </big></b>
 
 <small>
+<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Col´on,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," (invited review), <b>submitted</b> </li>
+<br>
 <li>K. Leperi<sup>†</sup>, Y.G. Chung<sup>†</sup>, F. You<sup>*</sup>, R.Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
 <br>
 <li>P. Sinha, A. Datar, C. Jeong, X. Deng, Y.G. Chung<sup>*</sup>, L.-C. Lin<sup>*</sup> &#34;Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements,&#34; <b>submitted</b> </li>
