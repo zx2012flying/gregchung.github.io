@@ -10,51 +10,51 @@ order: 4
 <b><big>2019 (6) </big></b>
 
 <small>
-<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," (Invited Review to <i>Molecular Simulation</i>), <b>submitted</b> </li> (IF = 1.449)
+<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," (Invited Review to <i>Molecular Simulation</i>), <b>submitted</b> (IF = 1.449) </li>
 <br>
 <li>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture,"  <b>submitted</b> </li>
 <br>
 <li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <b>submitted</b> </li>
 <br>
-<li>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup> "Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments," <i> Coordination Chemistry Reviews</i>, 2019, <b>accepted</b> </li> (IF = 14.499)
+<li>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup> "Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments," <i> Coordination Chemistry Reviews</i>, 2019, <b>accepted</b> (IF = 14.499)</li>
 <br>
-<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, "Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction, <i>Applied Catalysis B: Environmental</i>, <b>in revision </b></li> (IF = 11.698)
+<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, "Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction, <i>Applied Catalysis B: Environmental</i>, <b>in revision </b> (IF = 11.698)</li>
 <br>
-<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>in revision </b></li> (IF = 9.931)
+<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>in revision </b> (IF = 9.931)</li>
 <br>
 </small>
 
 <b><big>2018 (3)</big></b>
 
 <small>
-<li>Gak-Gyu. Choi, Jintu F. Kurisingal, Yongchul G. Chung<sup>*</sup>, Dae Won Park<sup>*</sup>, "Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides," <i> Korean Journal of Chemical Engineering </i>, 2018 </li> (IF = 2.199)
+<li>Gak-Gyu. Choi, Jintu F. Kurisingal, Yongchul G. Chung<sup>*</sup>, Dae Won Park<sup>*</sup>, "Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides," <i> Korean Journal of Chemical Engineering </i>, 2018 (IF = 2.199)</li>
 <br>
-<li>Gyeong Seon Jeong, Amal C. Kathalikkattil, Robin Babu, Yongchul G. Chung, Dae Won Park<sup>*</sup>, "Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst," <i> Chinese Journal of Catalysis</i>, 2018 <a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml"> [paper link]</a> </li> 
+<li>Gyeong Seon Jeong, Amal C. Kathalikkattil, Robin Babu, Yongchul G. Chung, Dae Won Park<sup>*</sup>, "Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst," <i> Chinese Journal of Catalysis</i>, 2018 <a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml"> [paper link]</a> (IF = 1.964)</li>
 <br>
-<li>Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>, "High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture,<i> J. Phys. Chem. Lett.</i>, 2018 <a href="http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700"> [paper link]</a> </li>
+<li>Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>, "High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture,<i> J. Phys. Chem. Lett.</i>, 2018 <a href="http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700"> [paper link]</a> (IF = 8.709)</li>
 <br>
 </small>
 
 <b><big>2017 (4)</big></b>
 
 <small>
-<li>Wei Li, Zizhen Rao, Yongchul G. Chung, Song Li<sup>*</sup>, "The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions," <i> ChemistrySelect </i>, 2017 <a href="http://onlinelibrary.wiley.com/doi/10.1002/slct.201701934/abstract"> [paper link] </a> </li>
+<li>Wei Li, Zizhen Rao, Yongchul G. Chung, Song Li<sup>*</sup>, "The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions," <i> ChemistrySelect </i>, 2017 <a href="http://onlinelibrary.wiley.com/doi/10.1002/slct.201701934/abstract"> [paper link] </a> (IF = 1.505)</li>
 <br>
-<li>Yongchul G. Chung<sup>†</sup>, Peng Bai<sup>†</sup>, Maciej Haranczyk, Karson T. Leperi, Peng Li, Hongda Zhang, Fengqi You, Omar K. Farha, Joseph T. Hupp, J. Ilja Siepmann<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation," <i>Chemistry of Materials</i>, 2017 <a href="http://pubs.acs.org/doi/10.1021/acs.chemmater.7b01565"> [paper link]</a></li>
+<li>Yongchul G. Chung<sup>†</sup>, Peng Bai<sup>†</sup>, Maciej Haranczyk, Karson T. Leperi, Peng Li, Hongda Zhang, Fengqi You, Omar K. Farha, Joseph T. Hupp, J. Ilja Siepmann<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation," <i>Chemistry of Materials</i>, 2017 <a href="http://pubs.acs.org/doi/10.1021/acs.chemmater.7b01565"> [paper link]</a> (IF = 9.890)</li>
 <br>
-<li>Kyung Mi Bhin, Jose Tharun, K. Roshan Roshan, Dong-Wook Kim, Yongchul G. Chung, Dae Won Park<sup>*</sup>, "Catalytic performance of zeolitic imidazolate framework ZIF-95 for the solventless synthesis of cyclic carbonates from CO<sub>2</sub> and epoxides," <i>Journal of CO<sub>2</sub> Utilization</i>, 2017 <a href="http://www.sciencedirect.com/science/article/pii/S2212982016300634"> [paper link] </a></li>
+<li>Kyung Mi Bhin, Jose Tharun, K. Roshan Roshan, Dong-Wook Kim, Yongchul G. Chung, Dae Won Park<sup>*</sup>, "Catalytic performance of zeolitic imidazolate framework ZIF-95 for the solventless synthesis of cyclic carbonates from CO<sub>2</sub> and epoxides," <i>Journal of CO<sub>2</sub> Utilization</i>, 2017 <a href="http://www.sciencedirect.com/science/article/pii/S2212982016300634"> [paper link] </a> (IF = 5.503)</li>
 <br>
-<li>Dalar Nazarian, Jeffrey S. Camp, Yongchul G. Chung, Randall Q. Snurr, David S. Sholl<sup>*</sup>, "Large-Scale Refinement of Metal Organic Framework Structures Using DFT," <i>Chemistry of Materials</i>, 2017<a href="http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04226"> [paper link]</a></li>
+<li>Dalar Nazarian, Jeffrey S. Camp, Yongchul G. Chung, Randall Q. Snurr, David S. Sholl<sup>*</sup>, "Large-Scale Refinement of Metal Organic Framework Structures Using DFT," <i>Chemistry of Materials</i>, 2017<a href="http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04226"> [paper link]</a> (IF = 9.890)</li>
 <br>
 </small>
 
 <b><big>2016 (2)</big></b>
 
 <small>
-<li>Yongchul G. Chung<sup>†</sup>, Diego A. Gomez-Gualdron<sup>†</sup>, Peng Li, Karson T. Leperi, Pravas Deria, Hongda Zhang, Nicholas A. Vermeulen, J. Fraser Stoddart, Fengqi You, Joseph T. Hupp, Omar K. Hupp, Randall Q. Snurr<sup>*</sup>,  "In silico discovery of metal-organic frameworks for CO<sub>2</sub> capture using a genetic algorithm," <i>Science Advances</i>, 2016 <a href="http://advances.sciencemag.org/content/2/10/e1600909"> [paper link]</a></li>
+<li>Yongchul G. Chung<sup>†</sup>, Diego A. Gomez-Gualdron<sup>†</sup>, Peng Li, Karson T. Leperi, Pravas Deria, Hongda Zhang, Nicholas A. Vermeulen, J. Fraser Stoddart, Fengqi You, Joseph T. Hupp, Omar K. Hupp, Randall Q. Snurr<sup>*</sup>,  "In silico discovery of metal-organic frameworks for CO<sub>2</sub> capture using a genetic algorithm," <i>Science Advances</i>, 2016 <a href="http://advances.sciencemag.org/content/2/10/e1600909"> [paper link]</a> (IF = 11.51)</li>
 - Coverge in the Popular Press: <a href="http://phys.org/news/2016-10-genetic-algorithm-rapidly-candidates-pre-combustion.html">Phys.org</a>, <a href="https://www.sciencedaily.com/releases/2016/10/161017112102.htm">Science Daily</a>, <a href="http://www.materialstoday.com/computation-theory/news/way-to-identify-best-mof-for-the-job/">MaterialsToday </a><br>
 <br>
-<li>Song Li, Yongchul G. Chung, R.Q. Snurr<sup>*</sup>, "High-Throughput Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture in the Presence of Water," <i>Langmuir</i>, 2016 <a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02803"> [paper link]</a></li>
+<li>Song Li, Yongchul G. Chung, R.Q. Snurr<sup>*</sup>, "High-Throughput Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture in the Presence of Water," <i>Langmuir</i>, 2016 <a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02803"> [paper link]</a> (IF = 3.789)</li>
 <br>
 </small>
 
