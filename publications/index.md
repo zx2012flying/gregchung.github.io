@@ -14,9 +14,9 @@ order: 4
 <br>
 <li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <b>submitted</b> </li>
 <br>
-<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, "Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction," <i>Applied Catalysis B: Environmental</i>, <b>in revision </b></li>
+<li>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, "Synergistic Effect of Metal-Organic Framework-Derived Three-Dimensional Boron and Nitrogen Co-doped Porous Carbons for Metal-free Catalytic Reduction," <b>submitted </b></li>
 <br>
-<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>in revision </b></li>
+<li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>submitted </b></li>
 <br>
 <li>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture," <i>ACS Sustainable Chemistry & Engineering, </i><b>in revision</b> </li>
 <br>
