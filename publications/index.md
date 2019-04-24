@@ -10,9 +10,9 @@ order: 4
 <b><big>2019 (5) </big></b>
 
 <small>
-<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," (Invited Review to <i>Molecular Simulation</i>), <b>submitted</b></li>
+<li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," <b>submitted</b></li>
 <br>
-<li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <i>Journal of Physical Chemistry C., </i><b>in reivision</b> </li>
+<li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <i>Journal of Physical Chemistry C., </i><b>in revision</b> </li>
 <br>
 <li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experi-mental Metal-Organic Framework Database: CoRE MOF 2019," <i>Journal of Materials Chemistry A</i>, <b>submitted </b></li>
 <br>
