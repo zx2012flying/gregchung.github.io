@@ -30,7 +30,7 @@ img.resize {
 <p><b>External</b></p>
 - <b>Reviewer</b>: Nature Communications, Journal of American Chemical Society (JACS), Industrial & Engineering Chemical Research (I&ECR), Langmuir, Account of Chemical Research, RSC Advances, Chemical Engineering Journal, Korean Journal of Chemical Engineering
 - Member, Internationalization Committee, KICHE (2019)
-- Member, 50th Steering Committee, KICHE (2019)
+- Committee Member & International Secretary, 50th Steering Committee, KICHE (2019)
 - Promotion Secretary, Separation Technology Division, KICHE (2018 - 2019)
 - International Secretary, Separation Technology Division, KICHE (2017)
 
