@@ -31,10 +31,10 @@ img.resize {
 - <b>Reviewer</b>: Nature Communications, Journal of American Chemical Society (JACS), Industrial & Engineering Chemical Research (I&ECR), Langmuir, Account of Chemical Research, RSC Advances, Chemical Engineering Journal, Korean Journal of Chemical Engineering
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
-- Member, Internationalization Committee (2019)
-- Committee Member & International Secretary, 50th Steering Committee (2019)
-- Promotion Secretary, Separation Technology Division (2018 - 2019)
-- International Secretary, Separation Technology Division (2017)
+- Member, Internationalization Committee (운영위원, 국제화 위원회) (2019)
+- Member & International Secretary, 50th Steering Committee (국제이사, 50대 운영위원회) (2019)
+- Promotion Secretary, Separation Technology Division (홍보간사, 분리기술부문위원회)(2018 - 2019)
+- International Secretary, Separation Technology Division (국제간사, 분리기술부문위원회) (2017)
 
 <p><b>Pusan National University (PNU)</b></p>
 - Member, Faculty Search Committee, Chemical & Biomolecular Engineering (2019)
