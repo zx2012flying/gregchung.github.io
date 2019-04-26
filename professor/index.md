@@ -29,14 +29,15 @@ img.resize {
 # Professional & Service Activities
 <p><b>External</b></p>
 - <b>Reviewer</b>: Nature Communications, Journal of American Chemical Society (JACS), Industrial & Engineering Chemical Research (I&ECR), Langmuir, Account of Chemical Research, RSC Advances, Chemical Engineering Journal, Korean Journal of Chemical Engineering
-- Member, Internationalization Committee, KIChE (2019)
-- Committee Member & International Secretary, 50th Steering Committee, KIChE (2019)
-- External Panel Member, CO2 Capture & Utilization Proposal Review, KETEP (2018)
-- Promotion Secretary, Separation Technology Division, KIChE (2018 - 2019)
-- International Secretary, Separation Technology Division, KIChE (2017)
+- External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
+<p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
+- Member, Internationalization Committee (2019)
+- Committee Member & International Secretary, 50th Steering Committee (2019)
+- Promotion Secretary, Separation Technology Division (2018 - 2019)
+- International Secretary, Separation Technology Division (2017)
 
-<p><b>Pusan National University</b></p>
+<p><b>Pusan National University (PNU)</b></p>
 - Member, Faculty Search Committee, Chemical & Biomolecular Engineering (2019)
-- Member, Faculty Performance Evaluation Committee, the College of Engineering (2018 - 2019)
+- Member, Faculty Performance Evaluation Committee, PNU College of Engineering (2018 - 2019)
 - Member, Faculty Search Committee, Chemical & Biomolecular Engineering (2018)
 - Member, Faculty Search Committee, Chemical & Biomolecular Engineering (2017)
