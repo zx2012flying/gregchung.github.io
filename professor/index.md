@@ -34,8 +34,8 @@ img.resize {
 - Promotion Secretary, Separation Technology Division, Korean Institute of Chemical Engineers (2018 - 2019)
 - International Secretary, Separation Technology Division, Korean Institute of Chemical Engineers (2017)
 
-- University/College/Department
-- Member, Faculty Search Committee, Chemical & Biomolecular Engineering, Pusan National University (2019)
-- Member, Faculty Performance Evaluation Committee, the College of Engineering, Pusan National University (2018 - 2019)
-- Member, Faculty Search Committee, Chemical & Biomolecular Engineering, Pusan National University (2018)
-- Member, Faculty Search Committee, Chemical & Biomolecular Engineering, Pusan National University (2017)
+- Pusan National University
+- Member, Faculty Search Committee, Chemical & Biomolecular Engineering (2019)
+- Member, Faculty Performance Evaluation Committee, the College of Engineering (2018 - 2019)
+- Member, Faculty Search Committee, Chemical & Biomolecular Engineering (2018)
+- Member, Faculty Search Committee, Chemical & Biomolecular Engineering (2017)
