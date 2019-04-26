@@ -30,7 +30,7 @@ img.resize {
 <p><b>External</b></p>
 - <b>Reviewer</b>: Nature Communications, Journal of American Chemical Society (JACS), Industrial & Engineering Chemical Research (I&ECR), Langmuir, Account of Chemical Research, RSC Advances, Chemical Engineering Journal, Korean Journal of Chemical Engineering
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
-- External Reviewer, Samgsung
+- External Panel Member, Samsung Future Technology Center (외부심사위원, 삼성미래기술육성센터) (2017)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
 - Member, Internationalization Committee (운영위원, 국제화 위원회) (2019)
 - Member & International Secretary, 50th Steering Committee (국제이사, 50대 운영위원회) (2019)
