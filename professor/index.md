@@ -27,12 +27,15 @@ img.resize {
 - Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016
 
 # Professional & Service Activities
-## External
+- External
+- Reviewers for: Nature Communications, JACS, Langmuir, Account of Chemical Research, RSC Advances, Korean Journal of Chemical Engineering
 - Member, Internationalization Committee, Korean Institute of Chemical Engineers (2019)
 - Member, 50th Steering Committee, Korean Institute of Chemical Engineers (2019)
 - Promotion Secretary, Separation Technology Division, Korean Institute of Chemical Engineers (2018 - 2019)
 - International Secretary, Separation Technology Division, Korean Institute of Chemical Engineers (2017)
-## University
-- Member, Faculty Search Committee of Chemical & Biomolecular Engineering, Pusan National University (2019)
-- Member, Faculty Search Committee of Chemical & Biomolecular Engineering, Pusan National University (2018)
-- Member, Faculty Search Committee of Chemical & Biomolecular Engineering, Pusan National University (2017)
+
+- University/College/Department
+- Member, Faculty Search Committee, Chemical & Biomolecular Engineering, Pusan National University (2019)
+- Member, Faculty Performance Evaluation Committee, the College of Engineering, Pusan National University (2018 - 2019)
+- Member, Faculty Search Committee, Chemical & Biomolecular Engineering, Pusan National University (2018)
+- Member, Faculty Search Committee, Chemical & Biomolecular Engineering, Pusan National University (2017)
