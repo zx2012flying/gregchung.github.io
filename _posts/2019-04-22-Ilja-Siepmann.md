@@ -2,6 +2,7 @@
 layout: post
 title:  "Prof. Ilja Siepmann (University of Minnesota - Twin Cities, Chemistry) 부산대학교 화공생명공학부 방문 및 초청 강연"
 date:   2019-04-22
+tag: news
 ---
 
 ![](/images/ilja-siepmann.png){: .center-image}
