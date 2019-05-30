@@ -20,7 +20,7 @@ order: 4
 <br>
 <li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <i>Journal of Physical Chemistry C., </i><b>revision submitted</b></li>
 <br>
-<li>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture," <i>ACS Sustainable Chemistry & Engineering, </i><b>in press</b> </li>
+<li>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>, "Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture," <i>ACS Sustainable Chemistry & Engineering, </i>< 2019, <a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418"> [paper link]</a></li>
 <br>
 <li>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup> "Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments," <i> Coordination Chemistry Reviews</i>, 2019, <a href="https://doi.org/10.1016/j.ccr.2019.03.008"> [paper link]</a></li>
 <br>
