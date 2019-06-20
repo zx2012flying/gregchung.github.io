@@ -10,13 +10,14 @@ order: 4
 <b><big>2019 (7) </big></b>
 
 <small>
-<li>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>, "A Combined Experimental and Computational Investigation of Selective Adsorption of p-Xylene in a DABCO Pillar-Layered Metal-Organic Framework," <b>in revision</b></li>
-<br>
+
 <li>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>, "The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation," <i>Molecular Simulation</i><b>, in revision</b></li>
 <br>
 <li>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup> "Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019," <b>in revision</b></li>
 <br>
 <li>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup> "Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements," <b><i>Journal of Physical Chemistry C.</i></b><b>, revision submitted</b></li>
+<br>
+<li>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>, "The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation," <b>submitted</b></li>
 <br>
 <li> Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup> "Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes," <b><i>Applied Catalysis B: Environmental</i></b>, 2019 <a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344">[paper link]</a></li>
 <br>
