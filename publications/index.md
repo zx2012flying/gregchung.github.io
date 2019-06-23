@@ -80,6 +80,7 @@ order: 4
 <li>"Sheared polymer glass and the question of mechanical rejuvenation,"
 Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>
 <b><i>Journal of Chemical Physics</i></b>, 2012 <a href="http://scitation.aip.org/content/aip/journal/jcp/136/12/10.1063/1.3698473"> [paper link]</a></li>
+
 <br>
 </small>
 </ol>

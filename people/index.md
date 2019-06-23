@@ -46,16 +46,6 @@ img.resize {
 </tr></tbody></table>
 <h4>학부연구생 (Current Undergraduates) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/juyongkim.jpg" alt="김주용" title="김주용" style="font-size: 10px;" />
-</td>
-<td align="left" valign="bottom">
-<p><b>김주용 (Kim, Juyong)</b></p>
-<p>학부연구생, 2019.01 - 현재 </p>
-<p><strong>연구주제:</strong> 금속유기다면체 모델링 </p>
-</td>
-</tr></tbody></table>
-
-<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
 <img class="resize" src="/images/seungyun.jpg" alt="한승윤" title="한승윤" style="font-size: 10px;" />
 </td>
 <td align="left" valign="bottom">
@@ -67,15 +57,6 @@ img.resize {
 
 <h4>학연과정 (Affiliated Degree Program)</h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody>
-<tr><td style="width: 180px;">
-<img class="resize" src="/images/kangsehee.png" alt="강세희" title="강세희" style="font-size: 10px;" />
-</td>
-<td align="left" valign="bottom">
-<p><b>강세희 (Kang, Sehee)</b></p>
-<p>학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 현재 </p>
-<p>학사 화학공학, 부산대학교, 2017 </p>
-<p><strong>연구주제: </strong>이산화탄소 흡수제 개발</p>
-</td></tr>
 
 <tr><td style="width: 180px;">
 <img class="resize" src="/images/profile_pic.png" alt="제현모" title="제현모" style="font-size: 10px;" />
@@ -109,6 +90,29 @@ img.resize {
 
 <table frame="void" border="0" style="width: 1200px;"><tbody>
 <h4>졸업생 (Former Group Members) </h4>
+
+<tr><td style="width: 180px;">
+<img class="resize" src="/images/kangsehee.png" alt="강세희" title="강세희" style="font-size: 10px;" />
+</td>
+<td align="left" valign="bottom">
+<p><b>강세희 (Kang, Sehee)</b></p>
+<p>학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 2019.08 </p>
+<p>학사 화학공학, 부산대학교, 2017 </p>
+<p><strong>연구주제: </strong>이산화탄소 흡수제 개발</p>
+<p><strong>이후진로: </strong> - </p>
+</td></tr>
+
+<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
+<img class="resize" src="/images/juyongkim.jpg" alt="김주용" title="김주용" style="font-size: 10px;" />
+</td>
+<td align="left" valign="bottom">
+<p><b>김주용 (Kim, Juyong)</b></p>
+<p>학부연구생, 2019.01 - 2019.06</p>
+<p><strong>연구주제:</strong> 금속유기다면체 모델링 </p>
+<p><strong>이후진로:</strong> 삼성디스플레이 </p>
+</td>
+</tr></tbody></table>
+
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
 <img class="resize" src="/images/profile_pic.png" style="font-size: 10px;" />
 </td>
