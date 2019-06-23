@@ -31,16 +31,19 @@ order: 4
 <li><a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344"><b>Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes</b></a>
 <br>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
 <br><i><span style="color:blue"><b>Applied Catalysis B: Environmental</b></span>, in press</i>
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>,  <span style="color=red"><b>[KSC-2018-CHA-0075]</b></span>
 </li>
 <br>
 <li><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418"><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b></a>
 <br>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
 <br><i><span style="color:blue"><b>ACS Sustainable Chemistry & Engineering</b></span>, in press</i>
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
 </li>
 <br>
 <li><a href="https://doi.org/10.1016/j.ccr.2019.03.008"><b>Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments</b></a>
 <br>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup>
 <br><span style="color:blue"><b><i>Coordination Chemistry Reviews</i></b></span>, 389, 161 - 188, (2019)
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
 </li>
 <br>
 </small>
@@ -51,6 +54,7 @@ order: 4
 <li><a href="https://doi.org/10.1007/s11814-018-0023-y"><b>Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides</b></a>
 <br>Gak-Gyu. Choi, Jintu F. Kurisingal, Yongchul G. Chung<sup>*</sup>, Dae Won Park<sup>*</sup>
 <br><span style="color:blue"><b><i>Korean Journal of Chemical Engineering</i></b></span>, 35, 6, 1373 - 1379, (2018)
+<br><span style="color:green"><b>[PNU-2year]</b></span>
 </li>
 <br>
 <li><a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml"><b>Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst</b></a>
@@ -61,6 +65,7 @@ order: 4
 <li><a href="http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700"><b>High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture</b></a>
 <br>Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>
 <br><span style="color:blue"><b><i>J. Phys. Chem. Lett.</i></b></span>, 8, 6135 - 6141, (2018)
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
 </li>
 <br>
 </small>
@@ -71,11 +76,13 @@ order: 4
 <li><a href="http://onlinelibrary.wiley.com/doi/10.1002/slct.201701934/abstract"><b>The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions</b></a>
 <br>Wei Li, Zizhen Rao, Yongchul G. Chung, Song Li<sup>*</sup>
 <br><span style="color:blue"><b><i>ChemistrySelect</i></b></span>, 2, 29, 9458 - 9465, (2017)
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color=red"><b>[KISTI-pe0673]</b></span>
 </li>
 <br>
 <li> <a href="http://pubs.acs.org/doi/10.1021/acs.chemmater.7b01565"><b>Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation</b></a>
 <br>Yongchul G. Chung<sup>†</sup>, Peng Bai<sup>†</sup>, Maciej Haranczyk, Karson T. Leperi, Peng Li, Hongda Zhang, Fengqi You, Omar K. Farha, Joseph T. Hupp, J. Ilja Siepmann<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
 <br><span style="color:blue"><b><i>Chemistry of Materials</i></b></span>, 29, 15, 6315 - 6328, (2017)
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
 </li>
 <br>
 <li> <a href="http://www.sciencedirect.com/science/article/pii/S2212982016300634"><b>Catalytic performance of zeolitic imidazolate framework ZIF-95 for the solventless synthesis of cyclic carbonates from CO<sub>2</sub> and epoxides</b></a>
@@ -86,6 +93,7 @@ order: 4
 <li><a href="http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04226"><b>Large-Scale Refinement of Metal Organic Framework Structures Using DFT</b></a>
 <br>Dalar Nazarian, Jeffrey S. Camp, Yongchul G. Chung, Randall Q. Snurr, David S. Sholl<sup>*</sup>
 <br><span style="color:blue"><b><i>Chemistry of Materials</i></b></span>, 29, 6, 2521 - 2528, (2017)
+<br><span style="color:green"><b>[PNU New Faculty Grant]</b></span>
 </li>
 <br>
 </small>
