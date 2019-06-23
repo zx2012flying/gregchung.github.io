@@ -21,7 +21,7 @@ order: 4
 <br>
 <li><b>Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements</b>
 <br>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup>
-<br>revision submitted</b>
+<br><span style="color:blue"><b>revision submitted</b></span>
 </li>
 <br>
 <li><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b>
@@ -30,12 +30,12 @@ order: 4
 <br>
 <li><a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344"><b>Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes</b></a>
 <br>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
-<br><span style="color:blue"><b><i>Applied Catalysis B: Environmental</b></span>, in press</i>
+<br><i><span style="color:blue"><b>Applied Catalysis B: Environmental</b></span>, in press</i>
 </li>
 <br>
 <li><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418"><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b></a>
 <br>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
-<br><span style="color:blue"><b><i>ACS Sustainable Chemistry & Engineering</b></span>, in press</i>
+<br><i><span style="color:blue"><b>ACS Sustainable Chemistry & Engineering</b></span>, in press</i>
 </li>
 <br>
 <li><a href="https://doi.org/10.1016/j.ccr.2019.03.008"><b>Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments</b></a>
