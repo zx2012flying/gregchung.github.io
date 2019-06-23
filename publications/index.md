@@ -77,7 +77,9 @@ order: 4
 <br>
 <li>Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>, "How deformation enhances mobility in a polymer glass," <b><i>Macromolecules</i></b>, 2012 <a href="http://pubs.acs.org/doi/abs/10.1021/ma300431x"> [paper link]</a></li>
 <br>
-<li>Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>, "Sheared polymer glass and the question of mechanical rejuvenation," <b><i>Journal of Chemical Physics</i></b>, 2012 <a href="http://scitation.aip.org/content/aip/journal/jcp/136/12/10.1063/1.3698473"> [paper link]</a></li>
+<li>"Sheared polymer glass and the question of mechanical rejuvenation,"
+Yongchul G. Chung, Daniel J. Lacks<sup>*</sup>
+<b><i>Journal of Chemical Physics</i></b>, 2012 <a href="http://scitation.aip.org/content/aip/journal/jcp/136/12/10.1063/1.3698473"> [paper link]</a></li>
 <br>
 </small>
 </ol>
