@@ -22,7 +22,7 @@ order: 4
 <br>
 <li><b>Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements</b>
 <br>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup>
-<br><span style="color:blue"><b><i>Journal of Physical Chemistry C.</i></b></span>, <b>revision submitted</b></li>
+<br><span style="color:blue"><b><i>Journal of Physical Chemistry C.</i>, revision submitted</b></span></li>
 <br>
 <li><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b>
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
