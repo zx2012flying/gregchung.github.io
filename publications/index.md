@@ -21,7 +21,8 @@ order: 4
 <br>
 <li><b>Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements</b>
 <br>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup>
-<br><span style="color:blue"><b><i>Journal of Physical Chemistry C.</i>, revision submitted</b></span></li>
+<br>revision submitted</b>
+</li>
 <br>
 <li><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b>
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
@@ -29,36 +30,36 @@ order: 4
 <br>
 <li><a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344"><b>Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes</b></a>
 <br>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
-<br><span style="color:blue"><b><i>Applied Catalysis B: Environmental, in press</i></b></span>
+<br><span style="color:blue"><b><i>Applied Catalysis B: Environmental</b></span>, in press</i>
 </li>
 <br>
 <li><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418"><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b></a>
 <br>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
-<br><span style="color:blue"><b><i>ACS Sustainable Chemistry & Engineering, in press</i></b></span>
+<br><span style="color:blue"><b><i>ACS Sustainable Chemistry & Engineering</b></span>, in press</i>
 </li>
 <br>
 <li><a href="https://doi.org/10.1016/j.ccr.2019.03.008"><b>Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments</b></a>
 <br>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup>
-<br><span style="color:blue"><b><i>Coordination Chemistry Reviews</i>, 389, 161 - 188, (2019)</b></span>
+<br><span style="color:blue"><b><i>Coordination Chemistry Reviews</i></b></span>, 389, 161 - 188, (2019)
 </li>
 </small>
 
 <b><big>2018 (3)</big></b>
 
 <small>
-<li><b>Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides</b>
+<li><a href="https://doi.org/10.1007/s11814-018-0023-y"><b>Two-dimensional Zn-SDC metal-organic frameworks for cyclic carbonate synthesis from CO<sub>2</sub> and epoxides</b></a>
 <br>Gak-Gyu. Choi, Jintu F. Kurisingal, Yongchul G. Chung<sup>*</sup>, Dae Won Park<sup>*</sup>
-<br><span style="color:blue"><b><i>Korean Journal of Chemical Engineering</i></span>, 35, 6, 1373 - 1379, (2018) <a href="https://doi.org/10.1007/s11814-018-0023-y">[link]</a></b>
+<br><b><i>Korean Journal of Chemical Engineering</i></b>, 35, 6, 1373 - 1379, (2018)
 </li>
 <br>
-<li><b>Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst</b>
+<li><a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml"><b>Cycloaddition of CO<sub>2</sub> with epoxides by using an amino-acid-based Cu(II)-tryptophan MOF catalyst</b></a>
 <br>Gyeong Seon Jeong, Amal C. Kathalikkattil, Robin Babu, Yongchul G. Chung, Dae Won Park<sup>*</sup>
-<br><span style="color:blue"><b><i>Chinese Journal of Catalysis</i></span>, 39, 1, 63 - 70, (2018) <a href="http://www.cjcatal.org/EN/abstract/abstract22354.shtml">[link]</a></b>
+<br><span style="color:blue"><b><i>Chinese Journal of Catalysis</i></b></span>, 39, 1, 63 - 70, (2018)
 </li>
 <br>
-<li><b>High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture</b>
+<li><a href="http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700"><b>High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture</b></a>
 <br>Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>
-<br><span style="color:blue"><b><i>J. Phys. Chem. Lett.</i></span>, 8, 6135 - 6141, (2018) <a href="http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700">[link]</a></b>
+<br><span style="color:blue"><b><i>J. Phys. Chem. Lett.</i></b></span>, 8, 6135 - 6141, (2018)
 </li>
 <br>
 </small>
