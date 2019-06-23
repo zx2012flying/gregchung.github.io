@@ -29,16 +29,17 @@ order: 4
 <br>
 <li><b>Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes</b>
 <br>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
-<br><span style="color:blue"><b><i>Applied Catalysis B: Environmental</i>, (2019) <a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344">[link]</a></b></span>
+<br><span style="color:blue"><b><i>Applied Catalysis B: Environmental</i>, <i>in press</i> <a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344">[link]</a></b></span>
 </li>
 <br>
 <li><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b>
 <br>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
-<br><span style="color:blue"><b><i>ACS Sustainable Chemistry & Engineering</i></span>, (2019) <a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418">[link]</a></b></li>
+<br><span style="color:blue"><b><i>ACS Sustainable Chemistry & Engineering</i>, <i>in press</i><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418">[link]</a></b></span>
+</li>
 <br>
 <li><b>Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments</b>
 <br>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup>
-<br><span style="color:blue"><b><i>Coordination Chemistry Reviews</i></span>, 389, 161 - 188, (2019) <a href="https://doi.org/10.1016/j.ccr.2019.03.008">[link]</a></b></li>
+<br><span style="color:blue"><b><i>Coordination Chemistry Reviews</i>, 389, 161 - 188, (2019) <a href="https://doi.org/10.1016/j.ccr.2019.03.008">[link]</a></b></span></li>
 <br>
 </small>
 
