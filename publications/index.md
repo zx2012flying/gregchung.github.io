@@ -11,9 +11,9 @@ order: 4
 
 <small>
 
-<li><b>The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation</b>
+<li><a href="https://chemrxiv.org/articles/The_Role_of_Molecular_Modeling_Simulation_in_the_Discovery_and_Deployment_of_Metal-Organic_Frameworks_for_Gas_Storage_and_Separation/7854980"><b>The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation</b></a>
 <br>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>,
-<br><span style="color:blue"><b><i>Molecular Simulation</i>, in revision <a href="https://chemrxiv.org/articles/The_Role_of_Molecular_Modeling_Simulation_in_the_Discovery_and_Deployment_of_Metal-Organic_Frameworks_for_Gas_Storage_and_Separation/7854980">[ChemRxiv link]</a></b></span></li>
+<br><span style="color:blue"><b><i>Molecular Simulation</i>, in revision</b></span></li>
 <br>
 <li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
 <br>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
@@ -27,20 +27,20 @@ order: 4
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
 <br><span style="color:blue"><b>submitted</b></span></li>
 <br>
-<li><b>Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes</b>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344"><b>Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes</b></a>
 <br>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
-<br><span style="color:blue"><b><i>Applied Catalysis B: Environmental</i>, <i>in press</i> <a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344">[link]</a></b></span>
+<br><span style="color:blue"><b><i>Applied Catalysis B: Environmental, in press</i></b></span>
 </li>
 <br>
-<li><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b>
+<li><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418"><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b></a>
 <br>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
-<br><span style="color:blue"><b><i>ACS Sustainable Chemistry & Engineering</i>, <i>in press</i><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418">[link]</a></b></span>
+<br><span style="color:blue"><b><i>ACS Sustainable Chemistry & Engineering, in press</i></b></span>
 </li>
 <br>
-<li><b>Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments</b>
+<li><a href="https://doi.org/10.1016/j.ccr.2019.03.008"><b>Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments</b></a>
 <br>Jae Hwa Lee, Sungeun Jeoung, Yongchul G. Chung<sup>*</sup>, Hoi Ri Moon<sup>*</sup>
-<br><span style="color:blue"><b><i>Coordination Chemistry Reviews</i>, 389, 161 - 188, (2019) <a href="https://doi.org/10.1016/j.ccr.2019.03.008">[link]</a></b></span></li>
-<br>
+<br><span style="color:blue"><b><i>Coordination Chemistry Reviews</i>, 389, 161 - 188, (2019)</b></span>
+</li>
 </small>
 
 <b><big>2018 (3)</big></b>
