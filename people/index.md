@@ -29,7 +29,7 @@ img.resize {
 <p><b>윤성현 (Yoon, Sunghyun)</b></p>
 <p>석박통합과정, 2019.03 - 현재 </p>
 <p>학사 화학공학, 부산대학교, 2019 </p>
-<p><strong>연구주제: </strong>기체 분리, 차세대 나노다공성 물질 데이터베이스</p>
+<p><strong>연구주제: </strong>에너지 저장 및 분자 설계</p>
 </td>
 </tr></tbody></table>
 
@@ -51,7 +51,7 @@ img.resize {
 <td align="left" valign="bottom">
 <p><b>한승윤 (Han, Seungyun)</b></p>
 <p>학부연구생, 2019.01 - 현재 </p>
-<p><strong>연구주제:</strong> 차세대 다공성물질 열/기계적 안정성 모델링 </p>
+<p><strong>연구주제:</strong> 다공성물질 열/기계적 안정성 모델링 </p>
 </td>
 </tr></tbody></table>
 
