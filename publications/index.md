@@ -13,7 +13,7 @@ order: 4
 
 <li><b>The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation</b>
 <br>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>,
-<br><b><i>Molecular Simulation</i>, in revision</b>{: .blue}
+<br><span style="color:blue"><b><i>Molecular Simulation</i>, in revision</b></span>
 </li>
 <br>
 <li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
