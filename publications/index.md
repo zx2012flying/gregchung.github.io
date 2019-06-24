@@ -41,7 +41,7 @@ order: 4
 <li><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418"><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b></a>
 <br>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
 <br><i><span style="color:blue"><b>ACS Sustainable Chemistry & Engineering</b></span>, in press</i>
-<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>,  <span style="color:red"><b>[KSC-2016-S1-002]</b></span>
 </li>
 <br>
 <li><a href="https://doi.org/10.1016/j.ccr.2019.03.008"><b>Elucidation of Flexible Metal-Organic Frameworks: Research Progresses and Recent Developments</b></a>
@@ -69,7 +69,7 @@ order: 4
 <li><a href="http://pubs.acs.org/doi/10.1021/acs.jpclett.7b02700"><b>High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture</b></a>
 <br>Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>
 <br><span style="color:blue"><b><i>J. Phys. Chem. Lett.</i></b></span>, 8, 6135 - 6141, (2018)
-<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span><span style="color:red"><b>[KSC-2016-S1-002]</b></span>
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
 </li>
 <br>
 </small>
@@ -80,7 +80,7 @@ order: 4
 <li><a href="http://onlinelibrary.wiley.com/doi/10.1002/slct.201701934/abstract"><b>The Role of Partial Atomic Charge Assignment Methods on the Computational Screening of Metal-Organic Frameworks for CO<sub>2</sub> Capture under Humid Conditions</b></a>
 <br>Wei Li, Zizhen Rao, Yongchul G. Chung, Song Li<sup>*</sup>
 <br><span style="color:blue"><b><i>ChemistrySelect</i></b></span>, 2, 29, 9458 - 9465, (2017)
-<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span><span style="color:red"><b>[KISTI-pe0673]</b></span>
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KISTI-pe0673]</b></span>
 </li>
 <br>
 <li> <a href="http://pubs.acs.org/doi/10.1021/acs.chemmater.7b01565"><b>Computational Screening of Nanoporous Materials for Hexane and Heptane Isomer Separation</b></a>
