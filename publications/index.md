@@ -32,15 +32,19 @@ order: 4
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
 <br><span style="color:blue"><b>submitted</b></span></li>
 <br>
+<li><a href="https://www.cheric.org/PDF/NICE/NI37/NI37-3-0318.pdf"><b>금속유기골격체 (Metal-Organic Frameworks, MOFs)의 대량 전산 스크리닝에 대한 최산 동향</b></a>
+<br>정용철<sup>*</sup>
+<br><span style="color:blue"><b><i>News & Information for Chemical Engineers</i></b></span>, 37, 3, 318 - 327, (2019)
+<br>
 <li><a href="https://www.sciencedirect.com/science/article/pii/S0926337319306344"><b>Synergistic Effect of Metal-Organic Framework-Derived Boron and Nitrogen Heteroatom-doped Three-Dimensional Porous Carbons for Precious-Metal-Free Catalytic Reduction of Nitroarenes</b></a>
 <br>Chi Van Nguyen, Seulchan Lee, Yongchul G. Chung<sup>*</sup>, Wei-Hung Chiang<sup>*</sup>, Kevin C.-W. Wu<sup>*</sup>
-<br><i><span style="color:blue"><b>Applied Catalysis B: Environmental</b></span>, in press</i>
+<br><i><span style="color:blue"><b>Applied Catalysis B: Environmental</b></span></i>, 257, 117888, (2019)
 <br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[DE-AC02-06CH11357]</b></span>
 </li>
 <br>
 <li><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.9b01418"><b>Development of a general evaluation metric for rapid screening of adsorbent materials for post-combustion CO<sub>2</sub> capture</b></a>
 <br>Karson T. Leperi<sup>†</sup>, Yongchul G. Chung<sup>†</sup>, Fengqi You<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
-<br><i><span style="color:blue"><b>ACS Sustainable Chemistry & Engineering</b></span>, in press</i>
+<br><i><span style="color:blue"><b>ACS Sustainable Chemistry & Engineering</b></span></i>, 7, 13, 11529 - 11539, (2019)
 <br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2016-S1-002]</b></span>
 </li>
 <br>
