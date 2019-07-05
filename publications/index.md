@@ -32,7 +32,7 @@ order: 4
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
 <br><span style="color:blue"><b>submitted</b></span></li>
 <br>
-<li><a href="https://www.cheric.org/PDF/NICE/NI37/NI37-3-0318.pdf"><b>금속유기골격체 (Metal-Organic Frameworks, MOFs)의 대량 전산 스크리닝에 대한 최산 동향</b></a>
+<li><a href="https://www.cheric.org/PDF/NICE/NI37/NI37-3-0318.pdf"><b>금속유기골격체 (Metal-Organic Frameworks, MOFs)의 대량 전산 스크리닝에 대한 최신 동향</b></a>
 <br>정용철<sup>*</sup>
 <br><span style="color:blue"><b><i>News & Information for Chemical Engineers</i></b></span>, 37, 3, 318 - 327, (2019)
 </li>
