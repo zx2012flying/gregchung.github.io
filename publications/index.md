@@ -7,7 +7,7 @@ order: 4
 <br>
 <ol reversed>
 
-<b><big>2019 (8) </big></b>
+<b><big>2019 (9) </big></b>
 
 <small>
 <li><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b>
