@@ -5,16 +5,14 @@ order: 6
 ---
 
 # 현재 수행 중인 과제 (Current Projects)
-<figure style="width: 150px" class="align-left">
+<figure style="width: 250px" class="align-left">
 <img src="../images/NRF-korea.png" alt="" />
 </figure>
-<p>
 - 과제번호: NRF-2019M3E6A1065300
 - 과제명: 다공성물질 기반 흡착제의 수소저장 한계극복 연구
 - 사업명: 수소에너지혁신기술개발사업 (집단 연구, 선기획)
 - 역할: 공동연구원
 - 총연구기간: 2019-05-24 ~ 2019-08-23|
-</p>
 
 <b>한국과학기술정보연구원 (KISTI)</b>
 - 과제번호: KSC-2018-CHA-0075
