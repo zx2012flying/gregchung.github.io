@@ -10,27 +10,30 @@ order: 4
 <b><big>2019 (9) </big></b>
 
 <small>
-<li><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b>
-<br>Sehee Kang, Yongchul G. Chung, Hojun Song<sup>*</sup>
-<br><span style="color:blue"><b>submitted</b></span>
-</li>
-<br>
-<li><a href="https://chemrxiv.org/articles/The_Role_of_Molecular_Modeling_Simulation_in_the_Discovery_and_Deployment_of_Metal-Organic_Frameworks_for_Gas_Storage_and_Separation/7854980"><b>The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation</b></a>
-<br>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>
-<br><span style="color:blue"><b><i>Molecular Simulation</i>, in revision</b></span></li>
-<br>
 <li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
 <br>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
 <br><span style="color:blue"><b>in revision</b></span></li>
 <br>
-<li><b>Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements</b>
-<br>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup>
-<br><span style="color:blue"><b>revision submitted</b></span>
-</li>
-<br>
 <li><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b>
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
 <br><span style="color:blue"><b>submitted</b></span></li>
+<br>
+<li><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b>
+<br>Sehee Kang, Yongchul G. Chung, Hojun Song<sup>*</sup>
+<br><span style="color:blue"><b>revision</b></span>
+</li>
+<br>
+<li><a href="https://chemrxiv.org/articles/The_Role_of_Molecular_Modeling_Simulation_in_the_Discovery_and_Deployment_of_Metal-Organic_Frameworks_for_Gas_Storage_and_Separation/7854980"><b>The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation</b></a>
+<br>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>
+<br><span style="color:blue"><b><i>Molecular Simulation</i></b></span>,  in press
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
+</li>
+<br>
+<li><a href="https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116"><b>Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements</b></a>
+<br>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup>
+<br><span style="color:blue"><b><i>Journal of Physical Chemistry C</i></b></span>, in press
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2018-CHA-0075]</b></span>
+</li>
 <br>
 <li><a href="https://www.cheric.org/PDF/NICE/NI37/NI37-3-0318.pdf"><b>금속유기골격체 (Metal-Organic Frameworks, MOFs)의 대량 전산 스크리닝에 대한 최신 동향</b></a>
 <br>정용철<sup>*</sup>
