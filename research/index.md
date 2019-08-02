@@ -3,25 +3,22 @@ layout: page
 title: research
 order: 3
 ---
-# 1. 이산화탄소 흡착 포집 및 촉매 전환 (CO<sub>2</sub> Capture and Conversion)
+# CO<sub>2</sub> separation and conversion to useful chemicals
 The rapid rise of the atmospheric concentration of CO<sub>2</sub> is impacting the climate in unusual ways. The International Panel on Climate Change (IPCC) estimates the overall carbon emission can be reduced by 80-90% if conventional coal-fired plants are equipped with CO<sub>2</sub> capture technology, such as adsorption-based processes. Following the separation process, the captured CO<sub>2</sub> must be either geologically sequestered or transformed into high-value chemicals.
 
-Our group uses a combination of density functional theory (DFT) calculations, grand canonical Monte Carlo (GCMC), and process-level simulations to investigate the CO<sub>2</sub> capture, separation, and conversion in porous materials.
+Our group uses a combination of density functional theory (DFT) calculations, grand canonical Monte Carlo (GCMC), and process-level simulations to investigate the CO<sub>2</sub> capture, separation, and conversion using porous materials.
 
 <b>The project is funded by NRF-2016R1D1A1B03934484 (Nov. 2016 - Oct. 2019).</b>
 <br>
-<b>Collaborators:</b> Prof. Dae Won Park (Chemical Engineering, Pusan National University)
 
-# 2. 탄화수소 흡착 분리 (Adsorptive Separation of Hydrocarbons)
+# Adsorption-based Hydrocarbon Separations
 Energy-efficient separation of straight alkanes (e.g., hexane) and aromatic (e.g., xylene) hydrocarbon isomers are important tasks in petrochemical industry. More than 94% of the transportation energy spent in the U.S. in 2010 is based on gasoline, and hexane isomers are major components of the gasoline, comprising more than 10% by volume. Xylene isomers are mainly derived from catalytic reforming of crude oil. Among the isomers, para-xylene is the most valuable intermediate. Separation of hexane and xylene isomers, however, are challenging because traditional, energy-intensive separation process, such as distillation, is practically impossible due to closely matched vapor pressure between the isomers.
 
 Our group uses grand canonical Monte Carlo (GCMC) simulations to investigate porous materials that can efficiently separate hydrocarbons.
 
 <b>The project is funded by NRF-2016R1D1A1B03934484 (Nov. 2016 - Oct. 2019).</b>
-<br>
-<b>Collaborators:</b> Prof. Young-Sang Bae (Chemical Engineering, Yonsei University, Korea)
 
-# 3. Computation-Ready, Experimental Metal-organic framework (CoRE MOF) database
+# (Open) Computation-Ready, Experimental Metal-organic framework (CoRE MOF) database
 ![](/images/core-mof-v1.png){: .center-image}
 Metal-organic frameworks (MOFs) are a class of nanoporous crystalline materials that are synthesized in a building-block approach from inorganic secondary building units (SBUs) and organic linkers. The building-block paradigm to MOF synthesis creates opportunities for the synthesis of virtually unlimited number of nanoporous materials.
 
@@ -34,5 +31,3 @@ Our group collaborates with other research groups around the world to collect, c
 - <a href="http://gregchung.github.io/CoRE-MOFs/">Computation-Ready, Experimental Metal-Organic Frameworks Database</a>
 
 <b>The project is funded by NRF-2016R1D1A1B03934484 (Nov. 2016 - Oct. 2019).</b>
-<br>
-<b>Collaborators:</b> Prof. J. Ilja Siepmann (University of Minnesota - Twin Cities, Chemistry)
