@@ -5,7 +5,7 @@ order: 6
 ---
 
 # 현재 수행 중인 과제 (Current Projects)
-[![](../images/NRF-korea.png)]{: .image-left }
+<img aling="left", src="../images/NRF-korea.png">
 - 과제번호: NRF-2019M3E6A1065300
 - 과제명: 다공성물질 기반 흡착제의 수소저장 한계극복 연구
 - 사업명: 수소에너지혁신기술개발사업 (집단 연구, 선기획)
