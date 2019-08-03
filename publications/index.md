@@ -16,7 +16,9 @@ order: 4
 <br>
 <li><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b>
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
-<br><span style="color:blue"><b>submitted</b></span></li>
+<br><span style="color:blue"><b><i>ACS Applied Materials Interface</i></b></span>, just accepted
+<br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2018-CHA-0075]</b></span>
+</li>
 <br>
 <li><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b>
 <br>Sehee Kang, Yongchul G. Chung, Hojun Song<sup>*</sup>
