@@ -19,7 +19,7 @@ order: 4
 <br><span style="color:blue"><b>revision</b></span>
 </li>
 <br>
-<li><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b>
+<li><a href="https://pubs.acs.org/doi/10.1021/acsami.9b11343"><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b></a>
 <br>Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
 <br><span style="color:blue"><b><i>ACS Applied Materials Interface</i></b></span>, just accepted
 <br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2018-CHA-0075]</b></span>
