@@ -5,21 +5,21 @@ order: 6
 ---
 
 # 현재 수행 중인 과제 (Current Projects)
-<img src="../images/NRF-korea.png" align="left" width="25%" hspace="40" vspace="20">
+한국연구재단
 - 과제번호: NRF-2019M3E6A1065300
 - 과제명: 다공성물질 기반 흡착제의 수소저장 한계극복 연구
 - 사업명: 수소에너지혁신기술개발사업 (집단 연구, 선기획)
 - 역할: 공동연구원
 - 총연구기간: 2019-05-24 ~ 2019-08-23|
 
-<img src="../images/KORE1.png" align="left" width="25%" hspace="40" vspace="20">
+한국과학기술정보연구원
 - 과제번호: KSC-2018-CHA-0075
 - 과제명: 새로운 토폴로지 구조를 가진 나노다공성 다형체 합성 예측 연구
 - 사업명: 창의연구
 - 역할: 연구책임자
 - 총연구기간: 2019-02-11 ~ 2020-02-10
 
-<img src="../images/NRF-korea.png" align="left" width="25%" hspace="40" vspace="20">
+한국연구재단
 - 과제번호: NRF-2016R1D1A1B03934484
 - 과제명: 재료 게놈방법을 활용한 CO<sub>2</sub>와 SO<sub>2</sub> 가스 분리 및 정제용 새로운 나노·다공성물질 탐색
 - 사업명: 기본연구지원사업 (개인연구)
@@ -27,7 +27,7 @@ order: 6
 - 총연구기간: 2016-11-01 ~ 2019-10-31
 
 # 종료 된 과제 (Completed Projects)
-<img src="../images/LG-chem.jpeg" align="left" width="25%" hspace="40" vspace="20">
+LG화학
 - 과제명: 분자전산모사를 통한 기체 정제용 흡착제 탐색
 - 총연구기간: 2018-07-25 ~ 2018-10-24
 - 역할: 연구책임자
