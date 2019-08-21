@@ -10,7 +10,7 @@ order: 4
 <b><big>2019 (10) </big></b>
 
 <small>
-<li>Delamination of a Layered Zeolite via Simple Calcination of Its Swollen Precursor: Quantitative Elucidation of the Delaminated Structure</b>
+<li><b>Delamination of a Layered Zeolite via Simple Calcination of Its Swollen Precursor: Quantitative Elucidation of the Delaminated Structure</b>
 <br>Jang, Eunhee; Lee<sup>†</sup>, Taehee; Jeong<sup>†</sup>, Yanghwan; Kim, Heejoong; Lee, Seulchan; Chung, Yongchul; Ha, Kyoung-Su; Baik, Hionsuck; Jang, Hoi-Gu; Cho, Sung; Choi, Jungkyu<sup>*</sup>
 <br><span style="color:blue"><b>submitted</b></span></li>
 <li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
