@@ -12,11 +12,11 @@ order: 4
 <small>
 <li><b>Delamination of a Layered Zeolite via Simple Calcination of Its Swollen Precursor: Quantitative Elucidation of the Delaminated Structure</b>
 <br>Jang, Eunhee; Lee<sup>†</sup>, Taehee; Jeong<sup>†</sup>, Yanghwan; Kim, Heejoong; Lee, Seulchan; Chung, Yongchul; Ha, Kyoung-Su; Baik, Hionsuck; Jang, Hoi-Gu; Cho, Sung; Choi, Jungkyu<sup>*</sup>
-<br><span style="color:blue"><b>submitted</b></span></li>
+<br><span style="color:blue"><b>under review</b></span></li>
 <br>
 <li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
 <br>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
-<br><span style="color:blue"><b>revision</b></span></li>
+<br><span style="color:blue"><b>under review</b></span></li>
 <br>
 <li><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b>
 <br>Sehee Kang, Yongchul G. Chung, Hojun Song<sup>*</sup>
