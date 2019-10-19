@@ -12,16 +12,16 @@ order: 4
 <small>
 <li><b>Delamination of a Layered Zeolite via Simple Calcination of Its Swollen Precursor: Quantitative Elucidation of the Delaminated Structure</b>
 <br>Jang, Eunhee; Lee<sup>†</sup>, Taehee; Jeong<sup>†</sup>, Yanghwan; Kim, Heejoong; Lee, Seulchan; Chung, Yongchul; Ha, Kyoung-Su; Baik, Hionsuck; Jang, Hoi-Gu; Cho, Sung; Choi, Jungkyu<sup>*</sup>
-<br><span style="color:blue"><b>under review</b></span></li>
+<br><span style="color:blue"><b>submitted</b></span></li>
 <br>
 <li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
 <br>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
-<br><span style="color:blue"><b>Journal of Chemical & Engineering Data</b></span></li>, in Press
-<br><span style="color:green"><b>[NRF-2016-R1D1A1B03934484], [KSC-2018-CHA-0075]</b></span>
+<br><span style="color:blue"><b><i>Journal of Chemical & Engineering Data</i></b></span>, in Press</li>
+<br><span style="color:green"><b>[NRF-2016-R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2018-CHA-0075]</b></span>
 <br>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732219335317"><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b></a>
 <br>Sehee Kang, Yongchul G. Chung, Jo Hong Kang, Hojun Song<sup>*</sup>
-<br><span style="color:blue"><b>Journal of Molecular Lilquids</b></span>
+<br><span style="color:blue"><b><i>Journal of Molecular Lilquids</b></i></span>, in press
 </li>
 <br>
 <li><a href="https://pubs.acs.org/doi/10.1021/acsami.9b11343"><b>The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation</b></a>
