@@ -7,9 +7,13 @@ order: 4
 <br>
 <ol reversed>
 
-<b><big>2019 (9) </big></b>
+<b><big>2019 (10) </big></b>
 
 <small>
+<li><b>Delamination of a Layered Zeolite via Simple Calcination of Its Swollen Precursor: Quantitative Elucidation of the Delaminated Structure</b>
+<br>Jang, Eunhee; Lee<sup>†</sup>, Taehee; Jeong<sup>†</sup>, Yanghwan; Kim, Heejoong; Lee, Seulchan; Chung, Yongchul; Ha, Kyoung-Su; Baik, Hionsuck; Jang, Hoi-Gu; Cho, Sung; Choi, Jungkyu<sup>*</sup>
+<br><span style="color:blue"><b>under review</b></span></li>
+<br>
 <li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
 <br>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
 <br><span style="color:blue"><b>Journal of Chemical & Engineering Data</b></span></li>, in Press
@@ -26,15 +30,15 @@ order: 4
 <br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2018-CHA-0075]</b></span>
 </li>
 <br>
-<li><a href="https://chemrxiv.org/articles/The_Role_of_Molecular_Modeling_Simulation_in_the_Discovery_and_Deployment_of_Metal-Organic_Frameworks_for_Gas_Storage_and_Separation/7854980"><b>The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation</b></a>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/08927022.2019.1648809"><b>The role of molecular modeling & simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation</b></a>
 <br>Arni Sturluson, Melanie Huynh, Alec R. Kaija, Caleb Laird, Sunghyun Yoon, Feier Hou, Zhenxing Feng, Christopher E. Wilmer,<sup>*</sup> Yamil J. Colon,<sup>*</sup> Yongchul G. Chung,<sup>*</sup> Daniel W. Siderius,<sup>*</sup>, Cory M. Simon<sup>*</sup>
-<br><span style="color:blue"><b><i>Molecular Simulation</i></b></span>,  in press
+<br><span style="color:blue"><b><i>Molecular Simulation</i></b></span>, 45, 1082-1121, (2019)
 <br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>
 </li>
 <br>
 <li><a href="https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116"><b>Surface area determination of porous materials using the Brunauer-Emmett-Teller (BET) method: limitations and improvements</b></a>
 <br>Priya Sinha, Archit Datar, Chungsik Jeong, X. Deng, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin<sup>*</sup>
-<br><span style="color:blue"><b><i>Journal of Physical Chemistry C</i></b></span>, in press
+<br><span style="color:blue"><b><i>Journal of Physical Chemistry C</i></b></span>, 123, 33, 20195-20209, (2019)
 <br><span style="color:green"><b>[NRF-2016R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2018-CHA-0075]</b></span>
 </li>
 <br>
