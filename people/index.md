@@ -17,8 +17,10 @@ order: 2
 - 제현모 (Hyunmo Je), 석사과정, 한국세라믹연구소, 2018.03 ~ 현재
 - 권혁원 (Hyukwon Kwon), 석사과정, 한국생산기술연구소 친환경재료연구소, 2019.03 현재
 
-#### 졸업생들 (Former Members)
-- 김주용 (Juyong Kim), 학사 (학부연구생), 2019.01 ~ 2019.06, 삼성디스플레이
+#### 대학원 졸업생 (Former Graduate Students)
 - 강세희 (Sehee Kang), 석사 (학연과정 한국생산기술연구소 울산본부), 2017.09 ~ 2019.08, 취직
 - 남수명 (Soomyung Nam), 석사, 2017.03 ~ 2019.02, 취직 준비 중
+
+#### 학부연구 졸업생 (Former Undergraduate Students)
+- 김주용 (Juyong Kim), 학사 (학부연구생), 2019.01 ~ 2019.06, 삼성디스플레이
 - 정충식 (Chungsik Jeong), 학사, 2016.06 ~ 2018.02, 공무원
