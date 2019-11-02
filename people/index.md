@@ -10,16 +10,6 @@ img.resize {
 }
 </style>
 
-<h4>박사후연구원 (Current Postdocs)</h4>
-<table>
-  <col>
-  <col>
-  <colgroup span="2"></colgroup>
-  <thead>
-  </thead>
-  <font face="courier new">Currently Not Available</font>
-</table>
-
 <h4>박사과정 (Current Ph.D. Students)</h4>
 
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
@@ -77,23 +67,10 @@ img.resize {
 <p><strong>연구주제: </strong>공정 시뮬레이션 및 데이터 분석</p>
 </td></tr>
 
-<tr><td style="width: 180px;">
-<img class="resize" src="/images/ssj.jpg" alt="서수정" title="권혁원" style="font-size: 10px;" />
-</td>
-<td align="left" valign="bottom">
-<p><b>서수정 (Seo, Sujeong)</b></p>
-<p>학연석사과정 (한국생산기술연구소 울산본부), 2019.03 - 현재 </p>
-<p>학사 화학공학, 울산대학교, 2019 </p>
-<p><strong>연구주제: </strong>...</p>
-</td></tr>
-</td></tr></tbody></table>
-
 <table frame="void" border="0" style="width: 1200px;"><tbody>
 <h4>졸업생 (Former Group Members) </h4>
 
-<tr><td style="width: 180px;">
-<img class="resize" src="/images/kangsehee.png" alt="강세희" title="강세희" style="font-size: 10px;" />
-</td>
+<tr>
 <td align="left" valign="bottom">
 <p><b>강세희 (Kang, Sehee)</b></p>
 <p>학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 2019.08 </p>
@@ -102,9 +79,6 @@ img.resize {
 <p><strong>이후진로: </strong> - </p>
 </td></tr>
 
-<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/juyongkim.jpg" alt="김주용" title="김주용" style="font-size: 10px;" />
-</td>
 <td align="left" valign="bottom">
 <p><b>김주용 (Kim, Juyong)</b></p>
 <p>학부연구생, 2019.01 - 2019.06</p>
@@ -113,18 +87,13 @@ img.resize {
 </td>
 </tr></tbody></table>
 
-<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" style="font-size: 10px;" />
-</td>
 <td align="left" valign="bottom">
 <p><b>남수명 (Nam, Soo Myung)</b></p>
 <p>석사과정, 2017.03 - 2019.02 </p>
 <p>학사 에너지화학공학, 경북대학교, 2017 </p>
 <p><strong>연구주제: </strong>SF<sub>6</sub>/N<sub>2</sub> 스크리닝</p>
 </td></tr>
-<tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" style="font-size: 10px;" />
-</td>
+
 <td align="left" valign="bottom">
 <p><b>정충식 (Jeong, Chungsik)</b></p>
 <p>학부연구생, 2016.06 - 2018.02 </p>
