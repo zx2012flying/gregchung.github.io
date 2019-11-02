@@ -48,18 +48,14 @@ img.resize {
 <h4>학연과정 (Affiliated Degree Program)</h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody>
 
-<tr><td style="width: 180px;">
-<img class="resize" src="/images/profile_pic.png" alt="제현모" title="제현모" style="font-size: 10px;" />
-</td>
+<tr>
 <td align="left" valign="bottom">
 <p><b>제현모 (Jae, Hyunmo)</b></p>
 <p>학연석사과정 (한국세라믹연구소), 2018.03 - 현재 </p>
 <p>... </p>
 <p><strong>연구주제: </strong>...</p>
 
-<tr><td style="width: 180px;">
-<img class="resize" src="/images/khw.jpg" alt="권혁원" title="권혁원" style="font-size: 10px;" />
-</td>
+<tr>
 <td align="left" valign="bottom">
 <p><b>권혁원 (Kwon, Hyukwon)</b></p>
 <p>학연석사과정 (한국생산기술연구소 친환경재료연구소), 2019.03 - 현재 </p>
@@ -69,7 +65,11 @@ img.resize {
 
 <table frame="void" border="0" style="width: 1200px;"><tbody>
 <h4>졸업생 (Former Group Members) </h4>
-
+| 입학연도 | 이름 | 연구참여역할 | 연구주제 | 연구실이후 |
+|----------|------|--------------|----------|------------|
+|          |      |              |          |            |
+|          |      |              |          |            |
+|          |      |              |          |            |
 <tr>
 <td align="left" valign="bottom">
 <p><b>강세희 (Kang, Sehee)</b></p>
@@ -80,6 +80,7 @@ img.resize {
 </td></tr>
 
 <td align="left" valign="bottom">
+김주용, 학부연구생, 2019.01 ~ 2019.06, 금속유기다면체 모델링, 삼성디스플레이
 <p><b>김주용 (Kim, Juyong)</b></p>
 <p>학부연구생, 2019.01 - 2019.06</p>
 <p><strong>연구주제:</strong> 금속유기다면체 모델링 </p>
