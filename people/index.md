@@ -70,8 +70,7 @@ img.resize {
 |          |      |              |          |            |
 |          |      |              |          |            |
 |          |      |              |          |            |
-<tr>
-<td align="left" valign="bottom">
+<tr><td align="left" valign="bottom">
 <p><b>강세희 (Kang, Sehee)</b></p>
 <p>학연석사과정 (한국생산기술연구소 울산본부), 2017.09 - 2019.08 </p>
 <p>학사 화학공학, 부산대학교, 2017 </p>
@@ -93,11 +92,10 @@ img.resize {
 <p>석사과정, 2017.03 - 2019.02 </p>
 <p>학사 에너지화학공학, 경북대학교, 2017 </p>
 <p><strong>연구주제: </strong>SF<sub>6</sub>/N<sub>2</sub> 스크리닝</p>
-</td></tr>
+</td>
 
 <td align="left" valign="bottom">
 <p><b>정충식 (Jeong, Chungsik)</b></p>
 <p>학부연구생, 2016.06 - 2018.02 </p>
 <p>학사 화학공학, 부산대학교 2018 </p>
 <p><strong>연구주제: </strong>BET 이론 보정</p>
-</td></tr></tbody></table>
