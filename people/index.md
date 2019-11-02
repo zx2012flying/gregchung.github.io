@@ -3,37 +3,14 @@ layout: page
 title: people
 order: 2
 ---
-<style type="text/css">
-img.resize {
-  max-width:75%;
-  align:left;
-}
-</style>
 
-<h4>박사과정 (Current Ph.D. Students)</h4>
+<b><big>3기</big></b>
+| 입학연도  | 이름   | 학위과정     | 연구주제                                    |
+|-----------|--------|--------------|---------------------------------------------|
+| 2018 가을 | 이슬찬 | 학석통합과정 | 데이터베이스 구축, 이성질체 분리, 메탄 저장 |
+| 2019 봄   | 윤성현 | 석박통합과정 | 이산화탄소 포집 및 변환, 퀀텀닷             |
+| 2020 봄   | 차재훈 | 석박통합과정 | 수련중                                      |
 
-<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/sunghyun.jpg" alt="윤성현" title="윤성현" style="font-size: 10px;" />
-</td>
-<td align="left" valign="bottom">
-<p><b>윤성현 (Yoon, Sunghyun)</b></p>
-<p>석박통합과정, 2019.03 - 현재 </p>
-<p>학사 화학공학, 부산대학교, 2019 </p>
-<p><strong>연구주제: </strong>에너지 저장, 이산화탄소 포집 및 변환</p>
-</td>
-</tr></tbody></table>
-
-<h4>석사과정 (Current Master's Students)</h4>
-<table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
-<img class="resize" src="/images/leeseulchan.jpg" alt="이슬찬" title="이슬찬" style="font-size: 10px;" />
-</td>
-<td align="left" valign="bottom">
-<p><b>이슬찬 (Lee, Seulchan)</b></p>
-<p>학석통합과정, 2018.09 - 현재 </p>
-<p>학사 화학공학, 부산대학교, 2018 </p>
-<p><strong>연구주제: </strong>에너지 저장, 이성질체 분리</p>
-</td>
-</tr></tbody></table>
 <h4>학부연구생 (Current Undergraduates) </h4>
 <table frame="void" border="0" style="width: 1200px;"><tbody><tr><td style="width: 180px;">
 <img class="resize" src="/images/seungyun.jpg" alt="한승윤" title="한승윤" style="font-size: 10px;" />
