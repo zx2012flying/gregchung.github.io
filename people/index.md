@@ -14,11 +14,11 @@ order: 2
 - 한승윤 (Seungyun Han), 2019.01 ~ 현재
 
 #### 학연과정 (Affiliated Degree Program Students)
-- 제현모 (Hyunmo Je), M.S., 한국세라믹연구소, 2018.03 ~ 현재
-- 권혁원 (Hyukwon Kwon), M.S., 한국생산기술연구소 친환경재료연구소, 2019.03 현재
+- 제현모 (Hyunmo Je), M.S. Program, 한국세라믹연구소, 2018.03 ~ 현재
+- 권혁원 (Hyukwon Kwon), M.S. Program, 한국생산기술연구소 친환경재료연구소, 2019.03 현재
 
 #### 대학원 졸업생 (Former Graduate Students)
-- 강세희 (Sehee Kang), M.S. (학연과정 한국생산기술연구소 울산본부), 2017.09 ~ 2019.08, 취직
+- 강세희 (Sehee Kang), M.S. (학연과정 한국생산기술연구소 울산본부), 2017.09 ~ 2019.08, 씨에스케미칼
 - 남수명 (Soomyung Nam), M.S., 2017.03 ~ 2019.02, 취직 준비 중
 
 #### 학부연구 졸업생 (Former Undergraduate Students)
