@@ -10,7 +10,7 @@ order: 4
 <b><big>2019 (9) </big></b>
 
 <small>
-<li><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b>
+<li><a href="https://pubs.acs.org/doi/10.1021/acs.jced.9b00835"><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b></a>
 <br>Yongchul G. Chung<sup>†,*</sup>, Emmanuel Haldoupis<sup>†</sup>, Benjamin J. Bucior<sup>†</sup>, Maciej Haranczyk, Seulchan Lee, Hongda Zhang, Konstantinos D. Vogiatzis, M. Milisavljevic, Sanliang Ling, Jeffrey S. Camp, Ben Slater, J. Ilja Siepmann<sup>*</sup>, David S. Sholl<sup>*</sup>, Randall Q. Snurr<sup>*</sup>
 <br><span style="color:blue"><b><i>Journal of Chemical & Engineering Data</i></b></span>, in press
 <br><span style="color:green"><b>[NRF-2016-R1D1A1B03934484]</b></span>, <span style="color:red"><b>[KSC-2018-CHA-0075]</b></span>
