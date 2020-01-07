@@ -8,7 +8,7 @@ order: 2
 
 #### 대학원생 (Graduate Students)
 - 윤성현 (Sunghyun Yoon), M.S./Ph.D Program, 2019.03
-- 차재훈 (Jaehoo Cha), M.S./Ph.D. Program, 2020.02
+- 차재훈 (Jaehoon Cha), M.S./Ph.D. Program, 2020.02
 
 #### 학부연구생 (Undergraduate Students)
 - 한승윤 (Seungyun Han), 2019.01
