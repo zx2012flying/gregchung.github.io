@@ -17,7 +17,7 @@ img.resize {
 <p>+82-51-510-3757 </p>
 
 # Research Interests
-- Molecular simulation of fluids, materials, and interfaces
+- Molecular simulation, CO<sub>2</sub> capture, Separation/Purification Technology
 
 # Education
 - Ph.D., Chemical Engineering, Case Western Reserve University, 2013
@@ -32,6 +32,7 @@ img.resize {
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
 - External Panel Member, Samsung Future Technology Center (외부심사위원, 삼성미래기술육성센터) (2017)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
+- Editorial Member, News and Information for Chemical Engineers (NICE), 2020
 - Member, Internationalization Committee (운영위원, 국제화 위원회), 2019
 - Member & International Secretary, 50th Steering Committee (국제이사, 50대 운영위원회), 2019
 - Promotion Secretary, Separation Technology Division (홍보간사, 분리기술부문위원회), 2018 - 2019
