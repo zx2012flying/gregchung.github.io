@@ -11,7 +11,7 @@ layout: default
 
   <section>
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "연구실 소식들 (Group News)" }}</h2>
+    <h3 class="post-list-heading">{{ page.list_title | default: "연구실 소식들 (Group News)" }}</h3>
     <ul class="post-list">
       {%- for post in site.posts limit:5 -%}
       <li>
@@ -19,17 +19,14 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h5>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            <h5>{{ post.title | escape }}</h5>
+            <h6>{{ post.title | escape }}</h6>
           </a>
         </h5>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
       </li>
       {% assign numposts = site.posts | size %}
       {% if numposts >= 1 %}
       <p>
-         <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+         <a href="{{ site.base }}/_post/.html">Older posts&hellip;</a>
       </p>
       {%- endfor -%}
     </ul>
