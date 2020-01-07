@@ -9,6 +9,7 @@ layout: default
 
   {{ content }}
 
+  <section>
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "연구실 소식들 (Group News)" }}</h2>
     <ul class="post-list">
@@ -25,10 +26,15 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {% assign numposts = site.posts | size %}
+      {% if numposts >= 1 %}
+      <p>
+         <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+      </p>
       {%- endfor -%}
     </ul>
   {%- endif -%}
-
+  </section>
 
   <!-- Start of StatCounter Code for Default Guide -->
   <script type="text/javascript">
