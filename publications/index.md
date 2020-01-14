@@ -7,8 +7,6 @@ order: 4
 <br>
 <ol reversed>
 
-<b><big>2020 (0) </big></b>
-
 <b><big>2019 (9) </big></b>
 <small>
 <li><a href="https://pubs.acs.org/doi/10.1021/acs.jced.9b00835"><b>Advances, Updates, and Analytics for the Computation-Ready, Experimental Metal-Organic Framework Database: CoRE MOF 2019</b></a>
