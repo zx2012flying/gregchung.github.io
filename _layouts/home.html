@@ -9,7 +9,6 @@ layout: default
 
   {{ content }}
 
-  <section>
   {%- if site.posts.size > 0 -%}
     <h3 class="post-list-heading">{{ page.list_title | default: "연구실 소식들 (Group News)" }}</h3>
     <ul class="post-list">
@@ -23,15 +22,18 @@ layout: default
           </a>
         </h5>
       </li>
+<<<<<<< HEAD
       {% assign numposts = site.posts | size %}
       {% if numposts >= 1 %}
       <p>
          <a href="{{ site.base }}/_post/.html">Older posts&hellip;</a>
       </p>
+=======
+>>>>>>> parent of 74a869c... Update home.html
       {%- endfor -%}
     </ul>
   {%- endif -%}
-  </section>
+
 
   <!-- Start of StatCounter Code for Default Guide -->
   <script type="text/javascript">
