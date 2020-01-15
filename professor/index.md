@@ -22,12 +22,14 @@ order: 1
 
 # Professional & Service Activities
 <p><b>External</b></p>
-- <b>Manuscript Reviewer</b>: Nature Communications, Journal of American Chemical Society (JACS), Industrial & Engineering Chemical Research (I&ECR), Langmuir, Account of Chemical Research, RSC Advances, Chemical Engineering Journal, Korean Journal of Chemical Engineering, Journal of Physical Chemistry C, Nanoscale
+- <b>Manuscript Reviewer</b>: Nature Communications, Journal of American Chemical Society (JACS), Industrial & Engineering Chemical Research (I&ECR), Langmuir, Account of Chemical Research, RSC Advances, Chemical Engineering Journal, Korean Journal of Chemical Engineering, Journal of Physical Chemistry C, Nanoscale, ACS Applied Nano Materials
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
 - External Panel Member, Samsung Future Technology Center (외부심사위원, 삼성미래기술육성센터) (2017)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
-- Editorial Member, News and Information for Chemical Engineers (편집위원, NICE지), 2020
-- Member, Internationalization Committee (운영위원, 국제화 위원회), 2019
+- Editorial Member, Editorial Management Committee (편집위원, NICE지), 2020
+- Secretary, Thermodynamics and Molecular Simulation Division, (학술간사, 열역학분자모사위원회), 2020
+- Member, Materials Division (운영위원, 재료부문위원회), 2020
+- Member, Internationalization Committee (운영위원, 국제화 국제협력 위원회), 2019
 - Member & International Secretary, 50th Steering Committee (국제이사, 50대 운영위원회), 2019
 - Promotion Secretary, Separation Technology Division (홍보간사, 분리기술부문위원회), 2018 - 2019
 - International Secretary, Separation Technology Division (국제간사, 분리기술부문위원회), 2017
