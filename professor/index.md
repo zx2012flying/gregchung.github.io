@@ -11,7 +11,9 @@ order: 1
 <p>+82-51-510-3757 </p>
 
 # Research Interests
-- Molecular simulation of materials, CO<sub>2</sub> separation/capture/conversion, Separation/Purification Technology
+- Molecular simulation of materials
+- CO<sub>2</sub> separation/capture/conversion
+- Separation/Purification Process and Technology
 
 # Education
 - Ph.D., Chemical Engineering, Case Western Reserve University, 2013 (Advisor: Daniel J. Lacks)
