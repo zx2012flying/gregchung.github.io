@@ -8,9 +8,7 @@ order: 4
 <ol reversed>
 
 <b><big>2020 (1) </big></b>
-
 <small>
-<br>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732219335317"><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b></a>
 <br>Sehee Kang, Yongchul G. Chung, Jo Hong Kang, Hojun Song<sup>*</sup>
 <br><span style="color:blue"><b><i>Journal of Molecular Lilquids</i></b></span>, 297, 111825, (2020)
