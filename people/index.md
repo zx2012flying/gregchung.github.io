@@ -19,9 +19,9 @@ order: 2
 #### 대학원 졸업생 (Former Graduate Students)
 - 이슬찬 (Seulchan Lee), B.S./M.S., 2018.09 ~ 2020.02
 - 제현모 (Hyunmo Je), M.S. (학연과정 한국세라믹연구원), 2018.03 ~ 2020.02
-- 강세희 (Sehee Kang), M.S. (학연과정 한국생산기술연구원 울산지역본부 친환경재료공정그룹), 2017.09 ~ 2019.08, 씨에스케미칼
-- 남수명 (Soomyung Nam), M.S., 2017.03 ~ 2019.02, 취직 준비 중
+- 강세희 (Sehee Kang), M.S. (학연과정 한국생산기술연구원 울산지역본부 친환경재료공정그룹), 2017.09 ~ 2019.08, 씨에스케미칼 (울산)
+- 남수명 (Soomyung Nam), M.S., 2017.03 ~ 2019.02
 
-#### 학부연구 졸업생 (Former Undergraduate Students)
+#### 이전 학부연구생 (Former Undergraduate Students)
 - 김주용 (Juyong Kim), B.S., 2019.01 ~ 2019.06, 삼성디스플레이
 - 정충식 (Chungsik Jeong), B.S., 2016.06 ~ 2018.02, 공무원
