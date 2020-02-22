@@ -14,6 +14,7 @@ order: 4
 <br><span style="color:blue"><b><i>Journal of Molecular Lilquids</i></b></span>, 297, 111825, (2020)
 <br><span style="color:green"><b>[NRF-2016-R1D1A1B03934484]</b></span>
 </li>
+<br>
 </small>
 
 <b><big>2019 (8) </big></b>
