@@ -6,8 +6,11 @@ order: 1
 
 정용철
 Assistant Professor, Chemical & Biomolecular Engineering, Pusan National University
+
 drygchung(at)gmail.com
+
 부산광역시 금정구 장전동 부산대학로 63번길 2 제7공학관 교수연구동 103호
+
 +82-51-510-3757
 
 # Research Interests
