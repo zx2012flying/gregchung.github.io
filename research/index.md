@@ -4,8 +4,8 @@ title: research
 order: 3
 ---
 ### 연구 주제 (Current Research Topics)
-- 계산/실험 기반 다공성 소재 구조 분석, 흡착 분리 이론/공정 연구 
-- 계산기반 이차원 소재의 광화학 및 촉매 특성 연구
+- 다공성 소재 구조 분석 및 흡착 분리 이론/공정 연구 (분자모델링, 실험 측정)
+- 이차원 소재의 광화학 및 촉매 특성 연구 (분자모델링)
 
 ### Copmutation-Ready, Experimental Metal-Organic Framework Database 
 - [CoRE MOF Website](http://gregchung.github.io/CoRE-MOFs/index.html)
