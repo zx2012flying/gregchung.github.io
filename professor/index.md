@@ -20,7 +20,7 @@ order: 1
 - B.S., Chemical Engineering, Texas Tech University, 2007
 
 # Professional Experience
-- Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016
+- Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016 (Advisor: Randall Q. Snurr)
 
 # Professional & Service Activities
 <p><b>External</b></p>
