@@ -13,7 +13,7 @@ order: 1
 # Research Interests
 - Molecular simulation of materials
 - CO<sub>2</sub> separation/capture/conversion
-- Separation technology
+- Separation
 
 # Professional Experience
 - Associate Professor, Chemical & Biomolecular Engineering, Pusan National University, 2020 - Present
