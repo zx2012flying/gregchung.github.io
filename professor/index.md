@@ -5,7 +5,7 @@ order: 1
 ---
 
 <p>정용철</p>
-- Assistant Professor, Chemical & Biomolecular Engineering, Pusan National University
+- Associate Professor, Chemical & Biomolecular Engineering, Pusan National University
 - drygchung(at)gmail.com
 - 부산광역시 금정구 장전동 부산대학로 63번길 2 제7공학관 교수연구동 103호
 - +82-51-510-3757
@@ -13,14 +13,16 @@ order: 1
 # Research Interests
 - Molecular simulation of materials
 - CO<sub>2</sub> separation/capture/conversion
-- Separation/Purification Process and Technology
+- Separation technology
+
+# Professional Experience
+- Associate Professor, Chemical & Biomolecular Engineering, Pusan National University, 2020 - Present
+- Assistant Professor, Chemical & Biomolecular Engineering, Pusan National University, 2016 - 2020
+- Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016 (Advisor: Randall Q. Snurr)
 
 # Education
 - Ph.D., Chemical Engineering, Case Western Reserve University, 2013 (Advisor: Daniel J. Lacks)
 - B.S., Chemical Engineering, Texas Tech University, 2007
-
-# Professional Experience
-- Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016 (Advisor: Randall Q. Snurr)
 
 # Professional & Service Activities
 <p><b>External</b></p>
