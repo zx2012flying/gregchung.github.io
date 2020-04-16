@@ -13,7 +13,7 @@ order: 4
 <br>Archit Datar et al. (in revision)
 </li>
 <br>
-<li><b>Predicting Zeolite ... </b>
+<li><b>Predicting Zeolitic ... </b>
 <br>Soochan Lee et al. (submitted)
 </li>
 <br>
