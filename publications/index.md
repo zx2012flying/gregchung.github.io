@@ -7,8 +7,15 @@ order: 4
 <br>
 <ol reversed>
 
-<b><big>2020 (1) </big></b>
+<b><big>2020 (3) </big></b>
 <small>
+<li>Surface Are Prediction ...
+<br>Archit Datar et al. (submitted)
+</li>
+<br>
+<li>Delamination of MCM-22 Zeolite ...
+<br>Eunhee Jang et al. (submitted)
+</li>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732219335317"><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b></a>
 <br>Sehee Kang, Yongchul G. Chung, Jo Hong Kang, Hojun Song<sup>*</sup>
 <br><span style="color:blue"><b><i>Journal of Molecular Liquids</i></b></span>, 297, 111825, (2020)
