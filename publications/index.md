@@ -9,8 +9,12 @@ order: 4
 
 <b><big>2020 (3) </big></b>
 <small>
-<li><b>Surface Are Prediction ...</b>
-<br>Archit Datar et al. (submitted)
+<li><b>Surface Area Prediction ...</b>
+<br>Archit Datar et al. (in revision)
+</li>
+<br>
+<li><b>Predicting Zeolite ... </b>
+<br>Soochan Lee et al. (submitted)
 </li>
 <br>
 <li><b>Delamination of MCM-22 Zeolite ...</b>
