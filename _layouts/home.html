@@ -10,15 +10,15 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "연구실 소식들 (Group News)" }}</h2>
+    <h3 class="post-list-heading">{{ page.list_title | default: "연구실 소식들 (Group News)" }}</h3>
     <ul class="post-list">
-      {%- for post in site.posts limit:2 -%}
+      {%- for post in site.posts limit:3 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h5>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            <h5>{{ post.title | escape }}</h5>
+            <h6>{{ post.title | escape }}</h6>
           </a>
         </h5>
         {%- if site.show_excerpts -%}
