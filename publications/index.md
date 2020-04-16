@@ -10,7 +10,7 @@ order: 4
 <b><big>2020 (4) </big></b>
 <small>
 <li><b>Surface Area Prediction ...</b>
-<br>Archit Datar et al. (in revision)
+<br>Archit Datar et al. (revision)
 </li>
 <br>
 <li><b>Predicting Zeolitic ... </b>
@@ -18,7 +18,7 @@ order: 4
 </li>
 <br>
 <li><b>Delamination of MCM-22 Zeolite ...</b>
-<br>Eunhee Jang et al. (submitted)
+<br>Eunhee Jang et al. (revision)
 </li>
 <br>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732219335317"><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b></a>
