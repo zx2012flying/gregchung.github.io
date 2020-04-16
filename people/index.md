@@ -23,7 +23,7 @@ order: 2
 #### 대학원 졸업생 (Former Graduate Students)
 - 이슬찬 (Seulchan Lee), B.S./M.S., 2016.06 ~ 2020.02, SK Innovation
 - 제현모 (Hyunmo Je), M.S. (학연과정 한국세라믹연구원), 2018.03 ~ 2020.02
-- 강세희 (Sehee Kang), M.S. (학연과정 한국생산기술연구원 울산지역본부 친환경재료공정그룹), 2017.09 ~ 2019.08
+- 강세희 (Sehee Kang), M.S. (학연과정 한국생산기술연구원 친환경재료공정그룹), 2017.09 ~ 2019.08
 - 남수명 (Soomyung Nam), M.S., 2017.03 ~ 2019.02
 
 #### 이전 학부연구생 (Former Undergraduate Students)
