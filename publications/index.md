@@ -9,11 +9,11 @@ order: 4
 
 <b><big>2020 (3) </big></b>
 <small>
-<li>Surface Are Prediction ...
+<li><b>Surface Are Prediction ...</b>
 <br>Archit Datar et al. (submitted)
 </li>
 <br>
-<li>Delamination of MCM-22 Zeolite ...
+<li><b>Delamination of MCM-22 Zeolite ...</b>
 <br>Eunhee Jang et al. (submitted)
 </li>
 <br>
