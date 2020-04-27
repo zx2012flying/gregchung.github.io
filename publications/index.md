@@ -9,15 +9,11 @@ order: 4
 
 <b><big>2020 (5) </big></b>
 <small>
-<li><b>Predicting Future Zeolitic ...</b>
-<br>Soochan Lee et al. (submitted)
-</li>
-<br>
 <li><b>Surface Area Prediction ...</b>
 <br>Archit Datar et al. (revision)
 </li>
 <br>
-<li><b>Predicting Zeolitic ... </b>
+<li><b>Predicting Future Zeolitic ... </b>
 <br>Soochan Lee et al. (submitted)
 </li>
 <br>
