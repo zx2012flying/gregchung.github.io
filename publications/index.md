@@ -9,19 +9,19 @@ order: 4
 
 <b><big>2020 (5) </big></b>
 <small>
-<li><b>Microplasma-Enabled Biomass-Derived ... </b> 
+<li><b>GQD ...</b> 
 <br> P-C. Yeh et al. (submitted)
 </li>
 <br>
-<li><b>Beyond the BET Analysis ...</b>
+<li><b>BET ...</b>
 <br>Archit Datar et al. (submitted)
 </li>
 <br>
-<li><b>Empirical Rules Leading ... </b>
+<li><b>ZIF ...</b>
 <br>Soochan Lee et al. (submitted)
 </li>
 <br>
-<li><b>Delamination of MCM-22 Zeolite ...</b>
+<li><b>Zeolite ...</b>
 <br>Eunhee Jang et al. (revision)
 </li>
 <br>
