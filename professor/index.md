@@ -26,7 +26,7 @@ order: 1
 
 # Professional & Service Activities
 <p><b>External</b></p>
-- <b>Manuscript Reviewer (chronologically listed, latest front)</b>: Science Advances, Industrial & Engineering Chemistry Research (I&ECR), Adsorption, ACS Applied Nano Materials, Nanoscale, Journal of Physical Chemistry C, Korean Journal of Chemical Engineering, Chemical Engineering Journal, Account of Chemical Research, Langmuir, Nature Communications, Journal of American Chemical Society (JACS)
+- <b>Manuscript Reviewer (chronologically listed, latest front)</b>: https://publons.com/researcher/1281893/yongchul-g-chung/peer-review/
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
 - External Panel Member, Samsung Future Technology Center (외부심사위원, 삼성미래기술육성센터) (2017)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
