@@ -26,7 +26,7 @@ order: 1
 
 # Professional & Service Activities
 <p><b>External</b></p>
-- <b>Manuscript Reviewer</b>: Nature Communications, Journal of American Chemical Society (JACS), Industrial & Engineering Chemical Research (I&ECR), Langmuir, Account of Chemical Research, RSC Advances, Chemical Engineering Journal, Korean Journal of Chemical Engineering, Journal of Physical Chemistry C, Nanoscale, ACS Applied Nano Materials, Adsorption
+- <b>Manuscript Reviewer (chronologically listed, latest front)</b>: Science Advances, Industrial & Engineering Chemistry Research (I&ECR), Adsorption, ACS Applied Nano Materials, Nanoscale, Journal of Physical Chemistry C, Korean Journal of Chemical Engineering, Chemical Engineering Journal, Account of Chemical Research, Langmuir, Nature Communications, Journal of American Chemical Society (JACS)
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
 - External Panel Member, Samsung Future Technology Center (외부심사위원, 삼성미래기술육성센터) (2017)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
