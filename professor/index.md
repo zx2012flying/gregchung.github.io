@@ -26,7 +26,7 @@ order: 1
 
 # Professional & Service Activities
 <p><b>External</b></p>
-- <b>Manuscript Reviewer (chronologically listed, latest front)</b>: https://publons.com/researcher/1281893/yongchul-g-chung/peer-review/
+- <b>Manuscript Reviews</b>: [publon](https://publons.com/researcher/1281893/yongchul-g-chung/peer-review/)
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
 - External Panel Member, Samsung Future Technology Center (외부심사위원, 삼성미래기술육성센터) (2017)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
@@ -37,7 +37,8 @@ order: 1
 - Member & International Secretary, 50th Steering Committee (국제이사, 50대 운영위원회), 2019
 - Promotion Secretary, Separation Technology Division (홍보간사, 분리기술부문위원회), 2018 - 2019
 - International Secretary, Separation Technology Division (국제간사, 분리기술부문위원회), 2017
-
+<p><b> Korean Society of Industrial and Engineering Chemistry </b></p>
+- Secretary, Busan-Ulsan-Gyengnam Branch, 2019 - 2020
 <p><b>Pusan National University (PNU)</b></p>
 - Member, Faculty Search Committee, Chemical & Biomolecular Engineering, 2019
 - Member, Faculty Performance Evaluation Committee, PNU College of Engineering, 2018 - 2019
