@@ -9,20 +9,22 @@ order: 4
 
 <b><big>2020 (5) </big></b>
 <small>
-<li><b>GQD ...</b> 
-<br> P-C. Yeh et al. (submitted)
+<li><b>Zeolite ...</b>
+<br>Eunhee Jang et al. (revision)
 </li>
 <br>
-<li><b>BET ...</b>
-<br>Archit Datar et al. (submitted)
+<li><b>GQD ...</b> 
+<br> P-C. Yeh et al. (submitted)
 </li>
 <br>
 <li><b>ZIF ...</b>
 <br>Soochan Lee et al. (submitted)
 </li>
 <br>
-<li><b>Zeolite ...</b>
-<br>Eunhee Jang et al. (revision)
+<li><b>Beyond the BET Analysis: the Surface Area Prediction of Nanoporous Materials using a Machine Learning Method</b>
+<br>Archit Datar, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin <sup>*</sup> 
+<br><span style="color:blue"><b><i>Journal of Physical Chemistry Letters</i></b></span>, (minor revision)
+<br><span style="color:green"><b>[NRF-2020R1C1C1010373]</b></span>, <span style="color:red"><b>[KSC-2020-CRE-0013]</b></span>
 </li>
 <br>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732219335317"><b>CO<sub>2</sub> Absorption Characteristics of Amino Group Functionalized Imidazolium-based Amino Acid Ionic Liquids</b></a>
