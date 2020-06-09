@@ -21,9 +21,9 @@ order: 4
 <br>Soochan Lee et al. (submitted)
 </li>
 <br>
-<li><b>Beyond the BET Analysis: the Surface Area Prediction of Nanoporous Materials using a Machine Learning Method</b>
+<li><a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518"><b>Beyond the BET Analysis: the Surface Area Prediction of Nanoporous Materials using a Machine Learning Method</b></a>
 <br>Archit Datar, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin <sup>*</sup> 
-<br><span style="color:blue"><b><i>Journal of Physical Chemistry Letters</i></b></span>, (minor revision)
+<br><span style="color:blue"><b><i>Journal of Physical Chemistry Letters</i></b></span>, (accepted)
 <br><span style="color:green"><b>[NRF-2020R1C1C1010373]</b></span>, <span style="color:red"><b>[KSC-2020-CRE-0013]</b></span>
 </li>
 <br>
