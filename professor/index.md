@@ -18,15 +18,15 @@ order: 1
 # Professional Experience
 - Associate Professor, Chemical & Biomolecular Engineering, Pusan National University, 2020 - Present
 - Assistant Professor, Chemical & Biomolecular Engineering, Pusan National University, 2016 - 2020
-- Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016 (Advisor: Randall Q. Snurr)
+- Postdoc., Chemical & Biological Engineering, Northwestern University, 2013 - 2016
 
 # Education
-- Ph.D., Chemical Engineering, Case Western Reserve University, 2013 (Advisor: Daniel J. Lacks)
+- Ph.D., Chemical Engineering, Case Western Reserve University, 2013
 - B.S., Chemical Engineering, Texas Tech University, 2007
 
 # Professional & Service Activities
 <p><b>External</b></p>
-- <b>Manuscript Reviews</b>: [publon](https://publons.com/researcher/1281893/yongchul-g-chung/peer-review/)
+- Manuscript Reviews: [link to Publon](https://publons.com/researcher/1281893/yongchul-g-chung/peer-review/)
 - External Panel Member, CO<sub>2</sub> Capture & Utilization Proposal Review, KETEP (2018)
 - External Panel Member, Samsung Future Technology Center (외부심사위원, 삼성미래기술육성센터) (2017)
 <p><b> Korean Institute of Chemical Engineers (KIChE) </b></p>
