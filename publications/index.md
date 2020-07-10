@@ -17,10 +17,6 @@ order: 4
 <br> P-C. Yeh et al. (submitted)
 </li>
 <br>
-<li><b>ZIF ...</b>
-<br>Soochan Lee et al. (submitted)
-</li>
-<br>
 <li><a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.0c01518"><b>Beyond the BET Analysis: the Surface Area Prediction of Nanoporous Materials using a Machine Learning Method</b></a>
 <br>Archit Datar, Yongchul G. Chung<sup>*</sup>, Li-Chiang Lin <sup>*</sup> 
 <br><span style="color:blue"><b><i>Journal of Physical Chemistry Letters</i></b></span>, (accepted)
